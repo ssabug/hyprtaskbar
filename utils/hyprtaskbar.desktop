@@ -1,0 +1,12 @@
+Name=hyprtaskbar
+Comment=Simple taskbar for hyprland
+GenericName=Hyprtaskbar
+Exec=/usr/bin/codium %F
+Icon=vscodium
+Type=Application
+StartupNotify=false
+StartupWMClass=VSCodium
+Categories=Utility;Development;IDE;
+MimeType=text/plain;inode/directory;
+Actions=new-empty-window;
+Keywords=vscode;

@@ -1,0 +1,40 @@
+{
+    "config":{
+        "startButton":{
+            "position":"left",
+            "text":"START",
+            "enableImage": true,
+            "image":"/home/toto/dev/hyprtaskbar/widget/arch.png",
+            "command":"${HOME}/.config/rofi/launchers/type-6/launcher_2.sh"
+        },
+        "workspaces":{
+            "position":"left"
+        },
+        "quickLaunch":{
+            "position":"left"
+        },
+        "focusedClient":{
+            "position":"left"
+        },
+        "sysTray":{
+            "position":"right"
+        },
+        "networkInfo":{
+            "position":"right"
+        },
+        "audio":{
+            "position":"right",
+            "settingsCommand":"pavucontrol"
+        },
+        "batteryLevel":{
+            "position":"right"
+        },
+        "time":{
+            "position":"right"
+        }
+    },
+    "global":{
+        "appRootFolder":"/usr/share/hyprtaskbar",
+        "appHomeFolder":"/home/toto/.config/hyprtaskbar"
+    }
+}

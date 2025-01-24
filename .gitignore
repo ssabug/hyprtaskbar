@@ -1,0 +1,6 @@
+__pycache__/*
+venv/
+widget/__pycache__/*
+hyprtaskbar*.zip
+.vscode/*
+*.zip
