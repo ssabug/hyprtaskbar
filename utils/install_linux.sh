@@ -34,7 +34,8 @@ copy_user_data(){
 }
 
 building_application_file(){
-    echo "${pr}Copying user data"
+    echo "${pr}Copying ${programDestination}/${programName}.desktop to /usr/share/applications/"
+    sudo mv "${programDestination}/${programName}.desktop" "/usr/share/applications/"
 }
 
 install() {

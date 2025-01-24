@@ -54,6 +54,7 @@ prepareBinary() {
     #cp -R "data/"* "${dataDestDir}/"
     cp config.json "${distDir}/${programName}/"
     cp style.scss "${distDir}/${programName}/"
+    cp utils/hypertaskbar.desktop "${distDir}/${programName}/"
 
     docDestDir="${distDir}/${programName}/doc"
     mkdir -p "${docDestDir}"

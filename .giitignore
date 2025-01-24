@@ -1,0 +1,4 @@
+__pycache__/
+venv/
+widget/__pycache__
+log.txt

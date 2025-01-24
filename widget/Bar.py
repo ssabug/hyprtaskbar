@@ -16,39 +16,11 @@ from gi.repository import (
     AstalHyprland as Hyprland,
 )
 
+from utils import *
+
 SYNC = GObject.BindingFlags.SYNC_CREATE
-CONFIG_FILE="config.json"
-
-def getConfig():
-    data=json.load(open(CONFIG_FILE));
-    return data["config"];
-
-def getConfigParam(section):#,param)
-        data=json.load(open(CONFIG_FILE));
-        result=data["config"];
-
-        for s in section.split("."):
-            if s in result.keys():
-                result=result[s];
-        
-        if result != data["config"]:
-            return result;
-        else:
-            return None
-
-def getGlobalParam(section):#,param)
-        data=json.load(open(CONFIG_FILE));
-        result=data["global"];
-
-        for s in section.split("."):
-            if s in result.keys():
-                result=result[s];
-        
-        if result != data["config"]:
-            return result;
-        else:
-            return None
-        
+#CONFIG_FILE="config.json"
+       
 class Workspaces(Gtk.Box):
     def __init__(self) -> None:
         super().__init__()
@@ -57,6 +29,10 @@ class Workspaces(Gtk.Box):
         hypr.connect("notify::workspaces", self.sync)
         hypr.connect("notify::focused-workspace", self.sync)
         self.sync()
+        self.log("workspaces loaded");
+
+    def log(self,msg,severity="INFO"):
+        log(msg,source="MEDI",severity=severity)
 
     def sync(self, *_):
         hypr = Hyprland.get_default()
@@ -96,6 +72,10 @@ class StartButton(Gtk.Box):
         self.startMenuCommand=getConfigParam("startButton.command")
         self.add(btn);
         btn.connect("clicked", self.clicked)
+        self.log("start button loaded");
+
+    def log(self,msg,severity="INFO"):
+        log(msg,source="STBU",severity=severity)
 
     def clicked(self,whocares) -> None:
         processname = "rofi"
@@ -115,7 +95,11 @@ class FocusedClient(Gtk.Label):
         super().__init__()
         Astal.widget_set_class_names(self, ["Focused"])
         Hyprland.get_default().connect("notify::focused-client", self.sync)
-        self.sync()
+        self.sync();
+        self.log("focused client loaded");
+
+    def log(self,msg,severity="INFO"):
+        log(msg,source="FOCC",severity=severity)
 
     def sync(self, *_):
         client = Hyprland.get_default().get_focused_client()
@@ -131,7 +115,11 @@ class Media(Gtk.Box):
         mpris = Mpris.get_default()
         Astal.widget_set_class_names(self, ["Media"])
         mpris.connect("notify::players", self.sync)
-        self.sync()
+        self.sync();
+        self.log("media loaded");
+
+    def log(self,msg,severity="INFO"):
+        log(msg,source="MEDI",severity=severity)
 
     def sync(self):
         mpris = Mpris.get_default()
@@ -175,6 +163,11 @@ class SysTray(Gtk.Box):
         tray = Tray.get_default()
         tray.connect("item_added", self.add_item)
         tray.connect("item_removed", self.remove_item)
+    
+        self.log("system tray loaded");
+
+    def log(self,msg,severity="INFO"):
+        log(msg,source="TRAY",severity=severity)
 
     def add_item(self, _: Tray.Tray, id: str):
         if id in self.items:
@@ -211,6 +204,10 @@ class NetworkInfo(Astal.Icon):
             wifi.bind_property("ssid", self, "tooltip-text", SYNC)
             wifi.bind_property("icon-name", self, "icon", SYNC)
 
+        self.log("network loaded")
+    def log(self,msg,severity="INFO"):
+        log(msg,source="NTWK",severity=severity)
+
 class Audio(Gtk.Box):
     def __init__(self) -> None:
         super().__init__()
@@ -220,8 +217,8 @@ class Audio(Gtk.Box):
         icon = Astal.Icon()
         slider = Astal.Slider(hexpand=True);
         lbl = Gtk.Button(visible=True) ;
-        lbl.add(Gtk.Label(visible=True, label="- "));
-        lbl.connect("clicked", self.get_menu)   
+        lbl.add(Gtk.Label(visible=True, label="+ "));
+        lbl.connect("clicked", self.get_settings)   
         box.add(lbl);
         box.add(icon);
         self.add(box);
@@ -232,7 +229,12 @@ class Audio(Gtk.Box):
         speaker.bind_property("volume", slider, "value", SYNC)
         slider.connect("dragged", lambda *_: speaker.set_volume(slider.get_value()))
 
-    def get_menu(self,rab):
+        self.log("audio loaded")
+
+    def log(self,msg,severity="INFO"):
+        log(msg,source="AUDI",severity=severity)
+
+    def get_settings(self,rab):
         os.system(getConfigParam("audio.settingsCommand"))
 
 class BatteryLevel(Gtk.Box):
@@ -257,16 +259,37 @@ class BatteryLevel(Gtk.Box):
             lambda _, value: f"{math.floor(value * 100)}%",
         )
 
+        self.log("battery level loaded")
+
+    def log(self,msg,severity="INFO"):
+        log(msg,source="BTLV",severity=severity)
+
 class Time(Astal.Label):
-    def __init__(self, format="%H:%M - %A %e."):
-        super().__init__()
-        self.format = format
+    def __init__(self, format=""):
+        super().__init__();
+        if format == "":
+            self.format = getConfigParam("time.displayFormat")
+        else:
+            self.format = format
         self.interval = AstalIO.Time.interval(1000, self.sync)
-        self.connect("destroy", self.interval.cancel)
-        Astal.widget_set_class_names(self, ["Time"])
+        self.connect("destroy", self.interval.cancel);
+
+        self.add_events(Gdk.EventMask.BUTTON_PRESS_MASK)
+        self.connect("button-press-event", self.clicked)
+        #self.connect("button-press-event",self.clicked)
+        Astal.widget_set_class_names(self, ["Time"]);
+
+        self.log("time loaded")
 
     def sync(self):
         self.set_label(GLib.DateTime.new_now_local().format(self.format))
+
+    def clicked(self,balek,rab):
+        self.log("CLIQUEZ BANDE DE PUTES");
+        self.log(str(balek))
+
+    def log(self,msg,severity="INFO"):
+        log(msg,source="TIME",severity=severity)
 
 class Left(Gtk.Box):
     def __init__(self) -> None:

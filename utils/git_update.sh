@@ -20,7 +20,12 @@ then
         git push --set-upstream "${GIT_NAME}" master
     }
 
-    init
+    if test -d .git/; then
+        echo "/////// .git folder exists, no need to init"
+    else
+        init
+    fi
+    
 
     echo "/////// ADDING ALL FILES"
     git add --all

@@ -1,0 +1,189 @@
+2025-01-24 16:41:03.879100 [ GTKG ] hyprtaskbar loaded successfully
+2025-01-24 16:41:18.365621 [ GTKG ] hyprtaskbar loaded successfully
+2025-01-24 16:41:34.412143 [ GTKG ] hyprtaskbar loaded successfully
+2025-01-24 16:42:32.303662 [ GTKG ] hyprtaskbar loaded
+2025-01-24 16:42:59.673834 [ GTKG ] hyprtaskbar loaded
+2025-01-24 16:44:00.130110 [ GTKG ] hyprtaskbar loaded
+2025-01-24 16:44:22.284766 [ GTKG ] hyprtaskbar loaded
+2025-01-24 16:44:31.360511 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:46:02.860025 [ GTKG ] hyprtaskbar loaded
+2025-01-24 16:46:53.863802 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:46:56.123802 [ GTKG ] hyprtaskbar loaded, scss :/home/toto/.config/hyprtaskbar/style.scss, css :/tmp/style.css
+2025-01-24 16:47:17.311755 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:48:28.837027 [ GTKG ] hyprtaskbar loaded, scss :/home/toto/.config/hyprtaskbar/style.scss, css :/tmp/style.css
+2025-01-24 16:48:38.367700 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:48:39.960689 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:50:05.167369 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:50:06.425809 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:50:08.159058 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:50:10.706881 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:50:17.959458 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:50:58.308197 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:51:56.958959 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:51:58.016203 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:52:23.334933 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:52:24.556843 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:52:29.462752 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:52:35.811813 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:52:54.526886 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:52:55.859311 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:54:05.223393 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:54:06.322159 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:58:23.469889 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:58:24.633661 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:58:32.725771 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:58:33.721492 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:58:57.013858 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:58:57.979048 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 16:59:18.813639 [ GTKG ] hyprtaskbar stopped
+2025-01-24 16:59:19.563503 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 17:00:45.230058 [ GTKG ] hyprtaskbar stopped
+2025-01-24 17:00:50.013766 [ GTKG ] hyprtaskbar stopped
+2025-01-24 17:00:50.956410 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 17:01:21.581763 [ GTKG ] hyprtaskbar stopped
+2025-01-24 17:01:22.501045 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 17:01:31.021681 [ GTKG ] hyprtaskbar stopped
+2025-01-24 17:01:43.595948 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 17:01:55.925681 [ GTKG ] hyprtaskbar stopped
+2025-01-24 17:01:56.998020 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 17:02:07.677616 [ GTKG ] hyprtaskbar stopped
+2025-01-24 17:02:08.486501 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 17:03:06.078078 [ GTKG ] hyprtaskbar stopped
+2025-01-24 17:03:06.929164 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 17:03:18.912812 [ GTKG ] hyprtaskbar stopped
+2025-01-24 17:03:19.882268 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 17:21:06.828401 [ GTKG ] hyprtaskbar stopped
+2025-01-24 17:57:38.600866 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 17:59:20.442108 [ GTKG ] hyprtaskbar stopped
+2025-01-24 17:59:21.564904 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:01:23.193946 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:02:00.929834 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:02:10.609610 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:03:40.201566 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:03:43.969679 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:03:50.023079 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:04:56.057267 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:04:57.090105 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:05:50.513875 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:06:02.921393 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:06:03.717247 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:06:15.488900 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:06:18.465073 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:06:23.574777 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:06:44.825748 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:06:45.778198 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:06:49.994432 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:09:13.880871 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:09:14.702415 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:10:06.169498 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:10:07.171395 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:10:42.640388 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:10:43.572257 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:13:45.727992 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:13:46.721009 [ TIME ] launched
+2025-01-24 18:13:46.760837 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:14:22.175608 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:14:23.043137 [ TIME ] launched
+2025-01-24 18:14:23.044213 [ TIME ] launched
+2025-01-24 18:14:23.087637 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:15:09.959642 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:15:11.031890 [ AUDI ] launched
+2025-01-24 18:15:11.035987 [ BTLV ] launched
+2025-01-24 18:15:11.037022 [ TIME ] launched
+2025-01-24 18:15:11.078565 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:15:36.431752 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:15:37.718836 [ NTWK ] launched
+2025-01-24 18:15:37.731017 [ AUDI ] launched
+2025-01-24 18:15:37.734745 [ BTLV ] launched
+2025-01-24 18:15:37.735794 [ TIME ] launched
+2025-01-24 18:15:37.777964 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:16:09.280436 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:16:10.337433 [ TIME ] launched
+2025-01-24 18:16:10.344714 [ NTWK ] launched
+2025-01-24 18:16:10.357533 [ AUDI ] launched
+2025-01-24 18:16:10.361693 [ BTLV ] launched
+2025-01-24 18:16:10.362809 [ TIME ] launched
+2025-01-24 18:16:10.403537 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:16:20.111468 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:16:20.994165 [ TRAY ] launched
+2025-01-24 18:16:21.001312 [ NTWK ] launched
+2025-01-24 18:16:21.013504 [ AUDI ] launched
+2025-01-24 18:16:21.017309 [ BTLV ] launched
+2025-01-24 18:16:21.018375 [ TIME ] launched
+2025-01-24 18:16:21.060695 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:17:33.063239 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:17:33.960429 [ STBU ] launched
+2025-01-24 18:17:33.963858 [ FOCC ] launched
+2025-01-24 18:17:33.965357 [ TRAY ] launched
+2025-01-24 18:17:33.972367 [ NTWK ] launched
+2025-01-24 18:17:33.984783 [ AUDI ] launched
+2025-01-24 18:17:33.988733 [ BTLV ] launched
+2025-01-24 18:17:33.989835 [ TIME ] launched
+2025-01-24 18:17:34.023069 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:21:17.891742 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:21:18.622400 [ STBU ] start button launched
+2025-01-24 18:21:18.625390 [ MEDI ] workspaces launched
+2025-01-24 18:21:18.626171 [ FOCC ] focused client launched
+2025-01-24 18:21:18.627684 [ TRAY ] system tray launched
+2025-01-24 18:21:18.634732 [ NTWK ] network launched
+2025-01-24 18:21:18.646830 [ AUDI ] audio launched
+2025-01-24 18:21:18.650307 [ BTLV ] battery level launched
+2025-01-24 18:21:18.651334 [ TIME ] time launched
+2025-01-24 18:21:18.694284 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:22:48.798748 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:22:49.604815 [ STBU ] start button launched
+2025-01-24 18:22:49.607780 [ MEDI ] workspaces launched
+2025-01-24 18:22:49.608542 [ FOCC ] focused client launched
+2025-01-24 18:22:49.610072 [ TRAY ] system tray launched
+2025-01-24 18:22:49.616921 [ NTWK ] network launched
+2025-01-24 18:22:49.629044 [ AUDI ] audio launched
+2025-01-24 18:22:49.632777 [ BTLV ] battery level launched
+2025-01-24 18:22:49.633803 [ TIME ] time launched
+2025-01-24 18:22:49.666535 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:23:04.550413 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:23:04.550875 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-24 18:23:26.080344 [ STBU ] start button launched
+2025-01-24 18:23:26.083188 [ MEDI ] workspaces launched
+2025-01-24 18:23:26.083959 [ FOCC ] focused client launched
+2025-01-24 18:23:26.085451 [ TRAY ] system tray launched
+2025-01-24 18:23:26.092418 [ NTWK ] network launched
+2025-01-24 18:23:26.104774 [ AUDI ] audio launched
+2025-01-24 18:23:26.108844 [ BTLV ] battery level launched
+2025-01-24 18:23:26.109883 [ TIME ] time launched
+2025-01-24 18:23:26.151339 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:23:52.734479 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:23:52.734820 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-24 18:23:59.337124 [ GTKG ] hyprtaskbar launched
+2025-01-24 18:23:59.404871 [ STBU ] start button launched
+2025-01-24 18:23:59.407838 [ MEDI ] workspaces launched
+2025-01-24 18:23:59.408591 [ FOCC ] focused client launched
+2025-01-24 18:23:59.410096 [ TRAY ] system tray launched
+2025-01-24 18:23:59.417092 [ NTWK ] network launched
+2025-01-24 18:23:59.429376 [ AUDI ] audio launched
+2025-01-24 18:23:59.433037 [ BTLV ] battery level launched
+2025-01-24 18:23:59.434057 [ TIME ] time launched
+2025-01-24 18:23:59.475738 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:24:37.990747 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:24:37.991329 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-24 18:24:39.390983 [ GTKG ] hyprtaskbar launched
+2025-01-24 18:24:39.458097 [ STBU ] start button loaded
+2025-01-24 18:24:39.461089 [ MEDI ] workspaces loaded
+2025-01-24 18:24:39.461847 [ FOCC ] focused client loaded
+2025-01-24 18:24:39.463385 [ TRAY ] system tray loaded
+2025-01-24 18:24:39.470257 [ NTWK ] network loaded
+2025-01-24 18:24:39.482299 [ AUDI ] audio loaded
+2025-01-24 18:24:39.485936 [ BTLV ] battery level loaded
+2025-01-24 18:24:39.486977 [ TIME ] time loaded
+2025-01-24 18:24:39.531808 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-24 18:26:58.694377 [ GTKG ] hyprtaskbar stopped
+2025-01-24 18:26:58.694947 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-24 18:26:59.484950 [ GTKG ] hyprtaskbar launched
+2025-01-24 18:26:59.551415 [ STBU ] start button loaded
+2025-01-24 18:26:59.554418 [ MEDI ] workspaces loaded
+2025-01-24 18:26:59.555173 [ FOCC ] focused client loaded
+2025-01-24 18:26:59.556679 [ TRAY ] system tray loaded
+2025-01-24 18:26:59.563586 [ NTWK ] network loaded
+2025-01-24 18:26:59.575858 [ AUDI ] audio loaded
+2025-01-24 18:26:59.579440 [ BTLV ] battery level loaded
+2025-01-24 18:26:59.580464 [ TIME ] time loaded
+2025-01-24 18:26:59.622516 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css

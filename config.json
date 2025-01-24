@@ -4,7 +4,7 @@
             "position":"left",
             "text":"START",
             "enableImage": true,
-            "image":"/home/toto/dev/hyprtaskbar/widget/arch.png",
+            "image":"widget/arch.png",
             "command":"${HOME}/.config/rofi/launchers/type-6/launcher_2.sh"
         },
         "workspaces":{
@@ -30,11 +30,15 @@
             "position":"right"
         },
         "time":{
-            "position":"right"
+            "position":"right",
+            "displayFormat":"%H:%M  %A %d.%m.%Y"
         }
     },
     "global":{
         "appRootFolder":"/usr/share/hyprtaskbar",
-        "appHomeFolder":"/home/toto/.config/hyprtaskbar"
+        "appHomeFolder":"/home/toto/.config/hyprtaskbar",
+        "debug":true,
+        "fileLogging":true,
+        "logFile" : "log.txt"
     }
 }
