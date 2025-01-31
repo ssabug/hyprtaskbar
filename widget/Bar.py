@@ -1,6 +1,7 @@
 import math
 import os
 import json
+import subprocess
 from gi.repository import (
     AstalIO,
     Astal,
@@ -14,9 +15,10 @@ from gi.repository import (
     AstalTray as Tray,
     AstalMpris as Mpris,
     AstalHyprland as Hyprland,
+    AstalApps as Apps
 )
-
 from utils import *
+
 
 SYNC = GObject.BindingFlags.SYNC_CREATE
 #CONFIG_FILE="config.json"
@@ -89,6 +91,73 @@ class StartButton(Gtk.Box):
 class QuickLaunch(Gtk.Box):
     def __init__(self) -> None:
         super().__init__();
+
+        Astal.widget_set_class_names(self, ["Launcher"])
+        Astal.widget_set_css(self, "min-width: 140px")
+        box=Gtk.Box()
+        scrollWindow=Gtk.ScrolledWindow();
+        #self.queryProgramList("");
+        progamList=getConfigParam("quickLaunch.programList");
+
+        for program in progamList:
+            app=self.queryProgramList(program);
+            if len(app)> 0:
+                app=app[0];
+                btn = Gtk.Button(visible=True);
+                image = Gtk.Image();
+                #pixbuf = Gdk.pixbuf_new_from_file(self.getIconPath(app['icon']))
+                #pixbuf = pixbuf.scale_simple(30, 30, gtk.gdk.INTERP_BILINEAR)
+                #image.set_from_pixbuf(pixbuf);
+                image.set_from_icon_name(app["icon"],3)
+                #image.set_from_file(self.getIconPath(app['icon']);
+                btn.connect("clicked",self.runProgram,app["executable"])
+                #btn.add(Gtk.Label(visible=True, label=app['name']));
+                btn.add(image);
+                box.add(btn);
+        
+
+        self.add(box);
+        self.log("app launcher client loaded");
+
+    def log(self,msg,severity="INFO"):
+        log(msg,source="QKLC",severity=severity);
+
+    def queryProgramList(self,text):
+        results=[];
+
+        self.apps = Apps.Apps(
+            name_multiplier=2,
+            entry_multiplier=0,
+            executable_multiplier=2,
+        )
+
+        for app in self.apps.fuzzy_query(text):
+            results.append({
+                            "name":app.get_name(),
+                            "icon":app.get_icon_name(),
+                            "executable":app.get_executable()    
+                            });
+
+        return results
+
+    def getIconPath(self,text):
+        cmd='find /usr/share/icons | grep ' + text
+        proc = subprocess.Popen(cmd, stdout=subprocess.PIPE, shell=True)
+        (out, err) = proc.communicate();
+        path=str(out.strip().decode('UTF-8'))
+        if '\n' in path:
+            path=path.split("\n")[0]
+
+        return path
+
+    def runProgram(self,dontcare,executable):
+        executable+=" &"
+        executable=executable.replace(" %u","")
+        executable=executable.replace(" %U","")
+        os.system(executable);
+        print(executable)
+        #t=executable.split(" ")
+        #subprocess.call(t)
 
 class FocusedClient(Gtk.Label):
     def __init__(self) -> None:
@@ -214,28 +283,77 @@ class Audio(Gtk.Box):
         Astal.widget_set_class_names(self, ["Audio"])
         Astal.widget_set_css(self, "min-width: 140px")
         box=Gtk.Box()
-        icon = Astal.Icon()
+        
+        
+        #icon.add_events()
+        #icon.connect("clicked", self.mute)
         slider = Astal.Slider(hexpand=True);
-        lbl = Gtk.Button(visible=True) ;
-        lbl.add(Gtk.Label(visible=True, label="+ "));
-        lbl.connect("clicked", self.get_settings)   
-        box.add(lbl);
-        box.add(icon);
+        volumeAmount=Gtk.Button();
+        volumeAmount.add(Gtk.Label(visible=True, label="0%"))
+
+        icon = Astal.Icon();
+        button=Gtk.Button(visible=True) ;
+        button.add(icon);
+        button.connect("clicked", self.get_settings) 
+
+        box.add(button);
+       
+
+        eventBox=self.createVolumeScroll();
+        volumeAmount.connect('scroll-event', self.on_scroll);
+
+        box.add(eventBox)
+        
+
         self.add(box);
-        self.add(slider)
+        self.add(slider)#slider
 
         speaker = Wp.get_default().get_audio().get_default_speaker()
         speaker.bind_property("volume-icon", icon, "icon", SYNC)
         speaker.bind_property("volume", slider, "value", SYNC)
         slider.connect("dragged", lambda *_: speaker.set_volume(slider.get_value()))
+        
+        self.speaker=speaker;
 
         self.log("audio loaded")
 
     def log(self,msg,severity="INFO"):
         log(msg,source="AUDI",severity=severity)
 
-    def get_settings(self,rab):
+    def on_scroll(self, widget):
+        # Handles zoom in / zoom out on Ctrl+mouse wheel
+        '''
+        accel_mask = Gtk.accelerator_get_default_mod_mask()
+        if event.state & accel_mask == Gdk.ModifierType.CONTROL_MASK:
+            direction = event.get_scroll_deltas()[2]
+            print(direction);
+        else:
+            print("scroll error");
+        '''
+        self.log(str(widget))
+
+    def createVolumeScroll(self):
+        eventBox= Gtk.EventBox()
+        eventBox.add_events(21)
+        #eventBox.connect("scroll-event",self.changeVolume )
+        eventBox.connect('scroll-event', self.on_scroll)
+        #eventBox.connect("dragged", lambda *_: speaker.set_volume(slider.get_value()))
+        return eventBox;
+
+    def get_settings(self,unused):
         os.system(getConfigParam("audio.settingsCommand"))
+
+    def changeVolume(self,unused):
+        speaker.set_volume(self.box.slider.get_value());
+
+    def mute(self,unused):
+
+        speaker=self.speaker;
+
+        if speaker.get_value() == 0:
+            speaker.set_volume(100);
+        else:
+            speaker.set_volume(0);
 
 class BatteryLevel(Gtk.Box):
     def __init__(self) -> None:

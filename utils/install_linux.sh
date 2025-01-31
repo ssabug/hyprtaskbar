@@ -33,7 +33,7 @@ copy_user_data(){
 
 }
 
-building_application_file(){
+build_application_file(){
     echo "${pr}Copying ${programDestination}/${programName}.desktop to /usr/share/applications/"
     sudo mv "${programDestination}/${programName}.desktop" "/usr/share/applications/"
 }
@@ -45,7 +45,9 @@ install() {
  
     copy_user_data
 
-    building_application_file
+    build_application_file
+
+    echo "${pr}setup finished"
 }
 
 install

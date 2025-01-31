@@ -11,10 +11,11 @@
             "position":"left"
         },
         "quickLaunch":{
-            "position":"left"
+            "position":"left",
+            "programList":["kitty","dolphin"]
         },
         "focusedClient":{
-            "position":"left"
+            "position":"center"
         },
         "sysTray":{
             "position":"right"
@@ -36,7 +37,7 @@
     },
     "global":{
         "appRootFolder":"/usr/share/hyprtaskbar",
-        "appHomeFolder":"/home/toto/.config/hyprtaskbar",
+        "appHomeFolder":"${HOME}/.config/hyprtaskbar",
         "debug":true,
         "fileLogging":true,
         "logFile" : "log.txt"

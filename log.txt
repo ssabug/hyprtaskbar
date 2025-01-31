@@ -187,3 +187,2056 @@
 2025-01-24 18:26:59.579440 [ BTLV ] battery level loaded
 2025-01-24 18:26:59.580464 [ TIME ] time loaded
 2025-01-24 18:26:59.622516 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-25 06:07:40.423208 [ GTKG ] hyprtaskbar stopped
+2025-01-25 06:07:40.423545 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 11:36:30.573772 [ GTKG ] hyprtaskbar launched
+2025-01-26 11:36:31.056560 [ STBU ] start button loaded
+2025-01-26 11:36:31.069848 [ MEDI ] workspaces loaded
+2025-01-26 11:36:31.071104 [ FOCC ] focused client loaded
+2025-01-26 11:36:31.073536 [ TRAY ] system tray loaded
+2025-01-26 11:36:31.117081 [ NTWK ] network loaded
+2025-01-26 11:36:31.191082 [ AUDI ] audio loaded
+2025-01-26 11:36:31.570802 [ BTLV ] battery level loaded
+2025-01-26 11:36:31.572981 [ TIME ] time loaded
+2025-01-26 11:36:31.618139 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 19:29:01.235721 [ GTKG ] hyprtaskbar stopped
+2025-01-26 19:29:01.236068 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 19:29:02.704763 [ GTKG ] hyprtaskbar launched
+2025-01-26 19:29:02.768962 [ STBU ] start button loaded
+2025-01-26 19:29:02.771595 [ MEDI ] workspaces loaded
+2025-01-26 19:29:02.785372 [ FOCC ] focused client loaded
+2025-01-26 19:29:02.786902 [ TRAY ] system tray loaded
+2025-01-26 19:29:02.793920 [ NTWK ] network loaded
+2025-01-26 19:29:02.805968 [ AUDI ] audio loaded
+2025-01-26 19:29:02.810091 [ BTLV ] battery level loaded
+2025-01-26 19:29:02.811102 [ TIME ] time loaded
+2025-01-26 19:29:02.848940 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 19:29:38.184034 [ GTKG ] hyprtaskbar stopped
+2025-01-26 19:29:38.184486 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 19:29:39.090575 [ GTKG ] hyprtaskbar launched
+2025-01-26 19:29:39.158320 [ STBU ] start button loaded
+2025-01-26 19:29:39.162228 [ MEDI ] workspaces loaded
+2025-01-26 19:29:39.175836 [ QKLC ] focused client loaded
+2025-01-26 19:29:39.176450 [ FOCC ] focused client loaded
+2025-01-26 19:29:39.177972 [ TRAY ] system tray loaded
+2025-01-26 19:29:39.185120 [ NTWK ] network loaded
+2025-01-26 19:29:39.197213 [ AUDI ] audio loaded
+2025-01-26 19:29:39.200773 [ BTLV ] battery level loaded
+2025-01-26 19:29:39.201816 [ TIME ] time loaded
+2025-01-26 19:29:39.243214 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 19:29:48.995970 [ GTKG ] hyprtaskbar stopped
+2025-01-26 19:29:48.996423 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 19:29:49.970539 [ GTKG ] hyprtaskbar launched
+2025-01-26 19:29:50.035056 [ STBU ] start button loaded
+2025-01-26 19:29:50.037750 [ MEDI ] workspaces loaded
+2025-01-26 19:29:50.050943 [ QKLC ] app launcher client loaded
+2025-01-26 19:29:50.051591 [ FOCC ] focused client loaded
+2025-01-26 19:29:50.053215 [ TRAY ] system tray loaded
+2025-01-26 19:29:50.060347 [ NTWK ] network loaded
+2025-01-26 19:29:50.072609 [ AUDI ] audio loaded
+2025-01-26 19:29:50.076608 [ BTLV ] battery level loaded
+2025-01-26 19:29:50.077673 [ TIME ] time loaded
+2025-01-26 19:29:50.120115 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 19:30:01.475645 [ GTKG ] hyprtaskbar stopped
+2025-01-26 19:30:01.476128 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 19:30:05.324206 [ GTKG ] hyprtaskbar launched
+2025-01-26 19:30:05.389654 [ STBU ] start button loaded
+2025-01-26 19:30:05.392259 [ MEDI ] workspaces loaded
+2025-01-26 19:30:05.404737 [ QKLC ] app launcher client loaded
+2025-01-26 19:30:05.405402 [ FOCC ] focused client loaded
+2025-01-26 19:30:05.406957 [ TRAY ] system tray loaded
+2025-01-26 19:30:05.413887 [ NTWK ] network loaded
+2025-01-26 19:30:05.425848 [ AUDI ] audio loaded
+2025-01-26 19:30:05.429848 [ BTLV ] battery level loaded
+2025-01-26 19:30:05.430892 [ TIME ] time loaded
+2025-01-26 19:30:05.472968 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 19:30:42.515963 [ GTKG ] hyprtaskbar stopped
+2025-01-26 19:30:42.516410 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 19:30:43.364902 [ GTKG ] hyprtaskbar launched
+2025-01-26 19:30:43.431053 [ STBU ] start button loaded
+2025-01-26 19:30:43.433776 [ MEDI ] workspaces loaded
+2025-01-26 19:30:43.446262 [ QKLC ] app launcher client loaded
+2025-01-26 19:30:43.446884 [ FOCC ] focused client loaded
+2025-01-26 19:30:43.448377 [ TRAY ] system tray loaded
+2025-01-26 19:30:43.455527 [ NTWK ] network loaded
+2025-01-26 19:30:43.467741 [ AUDI ] audio loaded
+2025-01-26 19:30:43.471649 [ BTLV ] battery level loaded
+2025-01-26 19:30:43.472690 [ TIME ] time loaded
+2025-01-26 19:30:43.513377 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 19:33:56.195374 [ GTKG ] hyprtaskbar stopped
+2025-01-26 19:33:56.195874 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 19:33:57.103002 [ GTKG ] hyprtaskbar launched
+2025-01-26 19:33:57.169905 [ STBU ] start button loaded
+2025-01-26 19:33:57.172543 [ MEDI ] workspaces loaded
+2025-01-26 19:34:14.183743 [ GTKG ] hyprtaskbar stopped
+2025-01-26 19:34:14.184413 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 19:34:15.131520 [ GTKG ] hyprtaskbar launched
+2025-01-26 19:34:15.197975 [ STBU ] start button loaded
+2025-01-26 19:34:15.200691 [ MEDI ] workspaces loaded
+2025-01-26 19:34:15.213395 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 19:34:15.213710 [ QKLC ] app launcher client loaded
+2025-01-26 19:34:15.214365 [ FOCC ] focused client loaded
+2025-01-26 19:34:15.216019 [ TRAY ] system tray loaded
+2025-01-26 19:34:15.223344 [ NTWK ] network loaded
+2025-01-26 19:34:15.235557 [ AUDI ] audio loaded
+2025-01-26 19:34:15.239272 [ BTLV ] battery level loaded
+2025-01-26 19:34:15.240338 [ TIME ] time loaded
+2025-01-26 19:34:15.282647 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 19:34:41.219288 [ GTKG ] hyprtaskbar stopped
+2025-01-26 19:34:41.219959 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 19:34:42.341498 [ GTKG ] hyprtaskbar launched
+2025-01-26 19:34:42.408931 [ STBU ] start button loaded
+2025-01-26 19:34:42.411683 [ MEDI ] workspaces loaded
+2025-01-26 19:34:42.433709 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 19:34:42.433937 [ QKLC ] app launcher client loaded
+2025-01-26 19:34:42.434534 [ FOCC ] focused client loaded
+2025-01-26 19:34:42.436103 [ TRAY ] system tray loaded
+2025-01-26 19:34:42.443224 [ NTWK ] network loaded
+2025-01-26 19:34:42.455663 [ AUDI ] audio loaded
+2025-01-26 19:34:42.459585 [ BTLV ] battery level loaded
+2025-01-26 19:34:42.460635 [ TIME ] time loaded
+2025-01-26 19:34:42.501364 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:14:05.608838 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:14:05.609502 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:14:28.457167 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:14:28.524383 [ STBU ] start button loaded
+2025-01-26 22:14:28.527111 [ MEDI ] workspaces loaded
+2025-01-26 22:14:45.032263 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:14:45.032708 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:14:45.905737 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:14:45.973219 [ STBU ] start button loaded
+2025-01-26 22:14:45.975917 [ MEDI ] workspaces loaded
+2025-01-26 22:14:45.999934 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:14:46.000169 [ QKLC ] app launcher client loaded
+2025-01-26 22:14:46.000777 [ FOCC ] focused client loaded
+2025-01-26 22:14:46.002438 [ TRAY ] system tray loaded
+2025-01-26 22:14:46.009535 [ NTWK ] network loaded
+2025-01-26 22:14:46.021580 [ AUDI ] audio loaded
+2025-01-26 22:14:46.025280 [ BTLV ] battery level loaded
+2025-01-26 22:14:46.026404 [ TIME ] time loaded
+2025-01-26 22:14:46.068859 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:17:06.519984 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:17:06.520453 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:17:07.487443 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:17:07.552016 [ STBU ] start button loaded
+2025-01-26 22:17:07.554603 [ MEDI ] workspaces loaded
+2025-01-26 22:17:07.567246 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:19:41.623315 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:19:41.623761 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:35:08.165921 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:35:08.232333 [ STBU ] start button loaded
+2025-01-26 22:35:08.234967 [ MEDI ] workspaces loaded
+2025-01-26 22:35:08.248154 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:35:08.261227 [ QKLC ] app launcher client loaded
+2025-01-26 22:35:08.261916 [ FOCC ] focused client loaded
+2025-01-26 22:35:08.263477 [ TRAY ] system tray loaded
+2025-01-26 22:35:08.270487 [ NTWK ] network loaded
+2025-01-26 22:35:08.282766 [ AUDI ] audio loaded
+2025-01-26 22:35:08.286562 [ BTLV ] battery level loaded
+2025-01-26 22:35:08.287625 [ TIME ] time loaded
+2025-01-26 22:35:08.329731 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:36:06.012671 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:36:06.013137 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:36:07.073841 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:36:07.141555 [ STBU ] start button loaded
+2025-01-26 22:36:07.144227 [ MEDI ] workspaces loaded
+2025-01-26 22:36:07.156918 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:36:07.170169 [ QKLC ] app launcher client loaded
+2025-01-26 22:36:07.170861 [ FOCC ] focused client loaded
+2025-01-26 22:36:07.172423 [ TRAY ] system tray loaded
+2025-01-26 22:36:07.179282 [ NTWK ] network loaded
+2025-01-26 22:36:07.191281 [ AUDI ] audio loaded
+2025-01-26 22:36:07.195047 [ BTLV ] battery level loaded
+2025-01-26 22:36:07.196087 [ TIME ] time loaded
+2025-01-26 22:36:07.238833 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:36:53.018176 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:36:53.018680 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:36:53.801544 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:36:53.868220 [ STBU ] start button loaded
+2025-01-26 22:36:53.870888 [ MEDI ] workspaces loaded
+2025-01-26 22:36:53.883630 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:36:53.896555 [ QKLC ] app launcher client loaded
+2025-01-26 22:36:53.897221 [ FOCC ] focused client loaded
+2025-01-26 22:36:53.898867 [ TRAY ] system tray loaded
+2025-01-26 22:36:53.906124 [ NTWK ] network loaded
+2025-01-26 22:36:53.918136 [ AUDI ] audio loaded
+2025-01-26 22:36:53.922284 [ BTLV ] battery level loaded
+2025-01-26 22:36:53.923328 [ TIME ] time loaded
+2025-01-26 22:36:53.960445 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:37:13.973690 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:37:13.974138 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:37:14.863071 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:37:14.924920 [ STBU ] start button loaded
+2025-01-26 22:37:14.927570 [ MEDI ] workspaces loaded
+2025-01-26 22:37:26.572089 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:37:26.572401 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:37:46.367113 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:37:46.433136 [ STBU ] start button loaded
+2025-01-26 22:37:46.435726 [ MEDI ] workspaces loaded
+2025-01-26 22:37:46.448444 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:37:46.462587 [ QKLC ] app launcher client loaded
+2025-01-26 22:37:46.463284 [ FOCC ] focused client loaded
+2025-01-26 22:37:46.464854 [ TRAY ] system tray loaded
+2025-01-26 22:37:46.471971 [ NTWK ] network loaded
+2025-01-26 22:37:46.483908 [ AUDI ] audio loaded
+2025-01-26 22:37:46.488070 [ BTLV ] battery level loaded
+2025-01-26 22:37:46.489110 [ TIME ] time loaded
+2025-01-26 22:37:46.525106 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:38:21.932093 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:38:21.932550 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:38:22.820546 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:38:22.885987 [ STBU ] start button loaded
+2025-01-26 22:38:22.888631 [ MEDI ] workspaces loaded
+2025-01-26 22:38:22.901417 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:38:22.916306 [ QKLC ] app launcher client loaded
+2025-01-26 22:38:22.916994 [ FOCC ] focused client loaded
+2025-01-26 22:38:22.918562 [ TRAY ] system tray loaded
+2025-01-26 22:38:22.925867 [ NTWK ] network loaded
+2025-01-26 22:38:22.937795 [ AUDI ] audio loaded
+2025-01-26 22:38:22.941889 [ BTLV ] battery level loaded
+2025-01-26 22:38:22.942963 [ TIME ] time loaded
+2025-01-26 22:38:22.985775 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:39:14.987907 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:39:14.988195 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:39:15.863572 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:39:15.930678 [ STBU ] start button loaded
+2025-01-26 22:39:15.933165 [ MEDI ] workspaces loaded
+2025-01-26 22:39:15.945820 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:39:15.959560 [ QKLC ] app launcher client loaded
+2025-01-26 22:39:15.960252 [ FOCC ] focused client loaded
+2025-01-26 22:39:15.961818 [ TRAY ] system tray loaded
+2025-01-26 22:39:15.968805 [ NTWK ] network loaded
+2025-01-26 22:39:15.980700 [ AUDI ] audio loaded
+2025-01-26 22:39:15.984752 [ BTLV ] battery level loaded
+2025-01-26 22:39:15.985799 [ TIME ] time loaded
+2025-01-26 22:39:16.023576 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:40:05.387921 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:40:05.388394 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:40:06.236582 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:40:06.303449 [ STBU ] start button loaded
+2025-01-26 22:40:06.306137 [ MEDI ] workspaces loaded
+2025-01-26 22:40:06.319203 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:40:06.335293 [ QKLC ] app launcher client loaded
+2025-01-26 22:40:06.335990 [ FOCC ] focused client loaded
+2025-01-26 22:40:06.337543 [ TRAY ] system tray loaded
+2025-01-26 22:40:06.344245 [ NTWK ] network loaded
+2025-01-26 22:40:06.356531 [ AUDI ] audio loaded
+2025-01-26 22:40:06.359657 [ BTLV ] battery level loaded
+2025-01-26 22:40:06.360807 [ TIME ] time loaded
+2025-01-26 22:40:06.426275 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:40:22.139658 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:40:22.140120 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:40:22.891924 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:40:22.957288 [ STBU ] start button loaded
+2025-01-26 22:40:22.960938 [ MEDI ] workspaces loaded
+2025-01-26 22:40:22.973827 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:40:22.988146 [ QKLC ] app launcher client loaded
+2025-01-26 22:40:22.988837 [ FOCC ] focused client loaded
+2025-01-26 22:40:22.990345 [ TRAY ] system tray loaded
+2025-01-26 22:40:22.997667 [ NTWK ] network loaded
+2025-01-26 22:40:23.009971 [ AUDI ] audio loaded
+2025-01-26 22:40:23.013987 [ BTLV ] battery level loaded
+2025-01-26 22:40:23.015050 [ TIME ] time loaded
+2025-01-26 22:40:23.056980 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:44:41.979353 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:44:41.979853 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:44:42.923127 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:44:42.989152 [ STBU ] start button loaded
+2025-01-26 22:44:42.991804 [ MEDI ] workspaces loaded
+2025-01-26 22:45:32.026883 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:45:32.027417 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:45:33.011574 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:45:33.078344 [ STBU ] start button loaded
+2025-01-26 22:45:33.081074 [ MEDI ] workspaces loaded
+2025-01-26 22:45:33.093828 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:45:33.108191 [ QKLC ] app launcher client loaded
+2025-01-26 22:45:33.108895 [ FOCC ] focused client loaded
+2025-01-26 22:45:33.110558 [ TRAY ] system tray loaded
+2025-01-26 22:45:33.117702 [ NTWK ] network loaded
+2025-01-26 22:45:33.129626 [ AUDI ] audio loaded
+2025-01-26 22:45:33.133815 [ BTLV ] battery level loaded
+2025-01-26 22:45:33.134888 [ TIME ] time loaded
+2025-01-26 22:45:33.177809 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:48:31.227204 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:48:31.227614 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:50:00.128695 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:50:00.196386 [ STBU ] start button loaded
+2025-01-26 22:50:00.199090 [ MEDI ] workspaces loaded
+2025-01-26 22:50:17.002600 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:50:17.003147 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:50:18.204028 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:50:18.268911 [ STBU ] start button loaded
+2025-01-26 22:50:18.271488 [ MEDI ] workspaces loaded
+2025-01-26 22:50:18.284379 [ QKLC ] app launcher client loaded
+2025-01-26 22:50:18.285137 [ FOCC ] focused client loaded
+2025-01-26 22:50:18.286870 [ TRAY ] system tray loaded
+2025-01-26 22:50:18.293953 [ NTWK ] network loaded
+2025-01-26 22:50:18.306071 [ AUDI ] audio loaded
+2025-01-26 22:50:18.309940 [ BTLV ] battery level loaded
+2025-01-26 22:50:18.311018 [ TIME ] time loaded
+2025-01-26 22:50:18.343935 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:51:01.458934 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:51:01.459377 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:51:16.406616 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:51:16.471530 [ STBU ] start button loaded
+2025-01-26 22:51:16.474179 [ MEDI ] workspaces loaded
+2025-01-26 22:51:16.487013 [ QKLC ] app launcher client loaded
+2025-01-26 22:51:16.487765 [ FOCC ] focused client loaded
+2025-01-26 22:51:16.489319 [ TRAY ] system tray loaded
+2025-01-26 22:51:16.496111 [ NTWK ] network loaded
+2025-01-26 22:51:16.508114 [ AUDI ] audio loaded
+2025-01-26 22:51:16.511665 [ BTLV ] battery level loaded
+2025-01-26 22:51:16.512716 [ TIME ] time loaded
+2025-01-26 22:51:16.551321 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:51:31.570142 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:51:31.570615 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:51:32.292248 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:51:32.359423 [ STBU ] start button loaded
+2025-01-26 22:51:32.363273 [ MEDI ] workspaces loaded
+2025-01-26 22:51:32.375797 [ QKLC ] app launcher client loaded
+2025-01-26 22:51:32.376542 [ FOCC ] focused client loaded
+2025-01-26 22:51:32.378198 [ TRAY ] system tray loaded
+2025-01-26 22:51:32.385160 [ NTWK ] network loaded
+2025-01-26 22:51:32.397191 [ AUDI ] audio loaded
+2025-01-26 22:51:32.400956 [ BTLV ] battery level loaded
+2025-01-26 22:51:32.401996 [ TIME ] time loaded
+2025-01-26 22:51:32.442726 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:51:48.258115 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:51:48.258464 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:51:49.066905 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:51:49.131732 [ STBU ] start button loaded
+2025-01-26 22:51:49.134432 [ MEDI ] workspaces loaded
+2025-01-26 22:51:49.147070 [ QKLC ] app launcher client loaded
+2025-01-26 22:51:49.147840 [ FOCC ] focused client loaded
+2025-01-26 22:51:49.149406 [ TRAY ] system tray loaded
+2025-01-26 22:51:49.156723 [ NTWK ] network loaded
+2025-01-26 22:51:49.169791 [ AUDI ] audio loaded
+2025-01-26 22:51:49.173766 [ BTLV ] battery level loaded
+2025-01-26 22:51:49.174840 [ TIME ] time loaded
+2025-01-26 22:51:49.209501 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:52:16.978240 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:52:16.978837 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:52:17.853414 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:52:17.918958 [ STBU ] start button loaded
+2025-01-26 22:52:17.921623 [ MEDI ] workspaces loaded
+2025-01-26 22:52:17.934283 [ QKLC ] app launcher client loaded
+2025-01-26 22:52:17.935639 [ FOCC ] focused client loaded
+2025-01-26 22:52:17.936688 [ TRAY ] system tray loaded
+2025-01-26 22:52:17.943591 [ NTWK ] network loaded
+2025-01-26 22:52:17.955552 [ AUDI ] audio loaded
+2025-01-26 22:52:17.959759 [ BTLV ] battery level loaded
+2025-01-26 22:52:17.960829 [ TIME ] time loaded
+2025-01-26 22:52:18.002368 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:52:36.106845 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:52:36.107407 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:52:40.176369 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:52:40.243512 [ STBU ] start button loaded
+2025-01-26 22:52:40.247136 [ MEDI ] workspaces loaded
+2025-01-26 22:52:40.259800 [ QKLC ] app launcher client loaded
+2025-01-26 22:52:40.261143 [ FOCC ] focused client loaded
+2025-01-26 22:52:40.262166 [ TRAY ] system tray loaded
+2025-01-26 22:52:40.269016 [ NTWK ] network loaded
+2025-01-26 22:52:40.281011 [ AUDI ] audio loaded
+2025-01-26 22:52:40.284521 [ BTLV ] battery level loaded
+2025-01-26 22:52:40.285559 [ TIME ] time loaded
+2025-01-26 22:52:40.326366 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:57:46.569552 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:57:46.570019 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:57:47.532724 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:57:47.599379 [ STBU ] start button loaded
+2025-01-26 22:57:47.602094 [ MEDI ] workspaces loaded
+2025-01-26 22:57:47.614759 [ QKLC ] app launcher client loaded
+2025-01-26 22:57:47.616046 [ FOCC ] focused client loaded
+2025-01-26 22:57:47.617044 [ TRAY ] system tray loaded
+2025-01-26 22:57:47.624472 [ NTWK ] network loaded
+2025-01-26 22:57:47.636663 [ AUDI ] audio loaded
+2025-01-26 22:57:47.641027 [ BTLV ] battery level loaded
+2025-01-26 22:57:47.642086 [ TIME ] time loaded
+2025-01-26 22:57:47.681882 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 22:58:18.065850 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:58:18.066301 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:58:19.012751 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:58:19.079979 [ STBU ] start button loaded
+2025-01-26 22:58:19.082635 [ MEDI ] workspaces loaded
+2025-01-26 22:58:35.289818 [ GTKG ] hyprtaskbar stopped
+2025-01-26 22:58:35.290300 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 22:58:36.113411 [ GTKG ] hyprtaskbar launched
+2025-01-26 22:58:36.181535 [ STBU ] start button loaded
+2025-01-26 22:58:36.184092 [ MEDI ] workspaces loaded
+2025-01-26 22:58:36.197152 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 22:58:36.207550 [ QKLC ] app launcher client loaded
+2025-01-26 22:58:36.208823 [ FOCC ] focused client loaded
+2025-01-26 22:58:36.209844 [ TRAY ] system tray loaded
+2025-01-26 22:58:36.216727 [ NTWK ] network loaded
+2025-01-26 22:58:36.228887 [ AUDI ] audio loaded
+2025-01-26 22:58:36.232714 [ BTLV ] battery level loaded
+2025-01-26 22:58:36.233764 [ TIME ] time loaded
+2025-01-26 22:58:36.275671 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:03:25.165105 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:03:25.165564 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:03:26.008867 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:03:26.075673 [ STBU ] start button loaded
+2025-01-26 23:03:26.078450 [ MEDI ] workspaces loaded
+2025-01-26 23:03:33.712449 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:03:33.712750 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:03:34.324556 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:03:34.391865 [ STBU ] start button loaded
+2025-01-26 23:03:34.394696 [ MEDI ] workspaces loaded
+2025-01-26 23:03:39.909181 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:03:39.909627 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:05:23.990599 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:05:24.058882 [ STBU ] start button loaded
+2025-01-26 23:05:24.061641 [ MEDI ] workspaces loaded
+2025-01-26 23:05:24.074926 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 23:05:24.085630 [ QKLC ] ['VSCodium - Wayland']
+2025-01-26 23:05:24.096131 [ QKLC ] app launcher client loaded
+2025-01-26 23:05:24.097459 [ FOCC ] focused client loaded
+2025-01-26 23:05:24.098503 [ TRAY ] system tray loaded
+2025-01-26 23:05:24.105509 [ NTWK ] network loaded
+2025-01-26 23:05:24.117556 [ AUDI ] audio loaded
+2025-01-26 23:05:24.121567 [ BTLV ] battery level loaded
+2025-01-26 23:05:24.122610 [ TIME ] time loaded
+2025-01-26 23:05:24.161482 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:13:42.460072 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:13:42.460566 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:13:43.983006 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:13:44.050243 [ STBU ] start button loaded
+2025-01-26 23:13:44.053118 [ MEDI ] workspaces loaded
+2025-01-26 23:13:46.350987 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:13:46.351394 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:14:51.690327 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:14:51.754820 [ STBU ] start button loaded
+2025-01-26 23:14:51.757648 [ MEDI ] workspaces loaded
+2025-01-26 23:14:51.772274 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 23:14:51.782660 [ QKLC ] ['VSCodium - Wayland']
+2025-01-26 23:14:51.792759 [ QKLC ] app launcher client loaded
+2025-01-26 23:14:51.794157 [ FOCC ] focused client loaded
+2025-01-26 23:14:51.795202 [ TRAY ] system tray loaded
+2025-01-26 23:14:51.802644 [ NTWK ] network loaded
+2025-01-26 23:14:51.814933 [ AUDI ] audio loaded
+2025-01-26 23:14:51.819131 [ BTLV ] battery level loaded
+2025-01-26 23:14:51.820194 [ TIME ] time loaded
+2025-01-26 23:14:51.856408 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:16:53.403328 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:16:53.403689 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:16:54.133410 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:16:54.200315 [ STBU ] start button loaded
+2025-01-26 23:16:54.204011 [ MEDI ] workspaces loaded
+2025-01-26 23:17:53.262558 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:17:53.263017 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:17:55.559067 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:17:55.625732 [ STBU ] start button loaded
+2025-01-26 23:17:55.628539 [ MEDI ] workspaces loaded
+2025-01-26 23:17:55.641581 [ QKLC ] ['Htop', 'Waypaper', 'Remote Viewer', 'CMake', 'UserFeedback Console', 'GTK Settings', 'Avahi Zeroconf Browser', 'Konsole', 'Shotwell', 'Dolphin', 'Ark', 'Qt V4L2 video capture utility', 'Text Editor', 'Qt V4L2 test Utility', 'Volume Control', 'VSCodium - Wayland', 'Pinta', 'Avahi VNC Server Browser', 'Firefox', 'Discord', 'Rofi Theme Selector', 'Gwenview', 'Avahi SSH Server Browser', 'Virtual Machine Manager', 'KWrite', 'LookingGlass', 'Kate', 'kitty', 'Files', 'VSCodium', 'Rofi', 'Vim', 'VLC media player', 'qpwgraph', 'Nemo']
+2025-01-26 23:17:55.652043 [ QKLC ] ['VSCodium - Wayland']
+2025-01-26 23:17:55.662255 [ QKLC ] app launcher client loaded
+2025-01-26 23:17:55.663554 [ FOCC ] focused client loaded
+2025-01-26 23:17:55.664610 [ TRAY ] system tray loaded
+2025-01-26 23:17:55.671827 [ NTWK ] network loaded
+2025-01-26 23:17:55.684142 [ AUDI ] audio loaded
+2025-01-26 23:17:55.688262 [ BTLV ] battery level loaded
+2025-01-26 23:17:55.689297 [ TIME ] time loaded
+2025-01-26 23:17:55.731228 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:18:52.006478 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:18:52.006998 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:18:54.774770 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:18:54.841186 [ STBU ] start button loaded
+2025-01-26 23:18:54.843986 [ MEDI ] workspaces loaded
+2025-01-26 23:18:54.857038 [ QKLC ] ['VSCodium - Wayland']
+2025-01-26 23:18:54.867258 [ QKLC ] app launcher client loaded
+2025-01-26 23:18:54.868592 [ FOCC ] focused client loaded
+2025-01-26 23:18:54.869593 [ TRAY ] system tray loaded
+2025-01-26 23:18:54.876441 [ NTWK ] network loaded
+2025-01-26 23:18:54.888312 [ AUDI ] audio loaded
+2025-01-26 23:18:54.892220 [ BTLV ] battery level loaded
+2025-01-26 23:18:54.893268 [ TIME ] time loaded
+2025-01-26 23:18:54.934469 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:19:20.487095 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:19:20.487884 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:19:21.669069 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:19:21.735193 [ STBU ] start button loaded
+2025-01-26 23:19:21.738039 [ MEDI ] workspaces loaded
+2025-01-26 23:19:21.750815 [ QKLC ] ['VSCodium - Wayland']
+2025-01-26 23:19:21.760804 [ QKLC ] app launcher client loaded
+2025-01-26 23:19:21.762055 [ FOCC ] focused client loaded
+2025-01-26 23:19:21.763041 [ TRAY ] system tray loaded
+2025-01-26 23:19:21.770149 [ NTWK ] network loaded
+2025-01-26 23:19:21.782261 [ AUDI ] audio loaded
+2025-01-26 23:19:21.786242 [ BTLV ] battery level loaded
+2025-01-26 23:19:21.787256 [ TIME ] time loaded
+2025-01-26 23:19:21.828862 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:25:46.744600 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:25:46.745069 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:25:47.806556 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:25:47.873990 [ STBU ] start button loaded
+2025-01-26 23:25:47.876822 [ MEDI ] workspaces loaded
+2025-01-26 23:25:47.889692 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:25:58.871474 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:25:58.871945 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:25:59.526327 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:25:59.591655 [ STBU ] start button loaded
+2025-01-26 23:25:59.594325 [ MEDI ] workspaces loaded
+2025-01-26 23:25:59.607299 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:26:22.287985 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:26:22.288683 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:26:23.144043 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:26:23.210220 [ STBU ] start button loaded
+2025-01-26 23:26:23.213077 [ MEDI ] workspaces loaded
+2025-01-26 23:26:23.226088 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:26:23.226418 [ QKLC ] app launcher client loaded
+2025-01-26 23:26:23.227665 [ FOCC ] focused client loaded
+2025-01-26 23:26:23.228646 [ TRAY ] system tray loaded
+2025-01-26 23:26:23.235525 [ NTWK ] network loaded
+2025-01-26 23:26:23.247524 [ AUDI ] audio loaded
+2025-01-26 23:26:23.251083 [ BTLV ] battery level loaded
+2025-01-26 23:26:23.252109 [ TIME ] time loaded
+2025-01-26 23:26:23.286413 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:26:37.031888 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:26:37.032343 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:26:37.941494 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:26:38.008160 [ STBU ] start button loaded
+2025-01-26 23:26:38.010995 [ MEDI ] workspaces loaded
+2025-01-26 23:26:38.024087 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:26:38.034814 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-26 23:26:38.035144 [ QKLC ] app launcher client loaded
+2025-01-26 23:26:38.036397 [ FOCC ] focused client loaded
+2025-01-26 23:26:38.037416 [ TRAY ] system tray loaded
+2025-01-26 23:26:38.044162 [ NTWK ] network loaded
+2025-01-26 23:26:38.055966 [ AUDI ] audio loaded
+2025-01-26 23:26:38.059614 [ BTLV ] battery level loaded
+2025-01-26 23:26:38.060634 [ TIME ] time loaded
+2025-01-26 23:26:38.102336 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:27:53.753024 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:27:53.753581 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:27:54.715480 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:27:54.782141 [ STBU ] start button loaded
+2025-01-26 23:27:54.784986 [ MEDI ] workspaces loaded
+2025-01-26 23:27:54.798058 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:27:54.808692 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-26 23:27:54.809049 [ QKLC ] app launcher client loaded
+2025-01-26 23:27:54.810327 [ FOCC ] focused client loaded
+2025-01-26 23:27:54.811364 [ TRAY ] system tray loaded
+2025-01-26 23:27:54.818418 [ NTWK ] network loaded
+2025-01-26 23:27:54.830621 [ AUDI ] audio loaded
+2025-01-26 23:27:54.834426 [ BTLV ] battery level loaded
+2025-01-26 23:27:54.835484 [ TIME ] time loaded
+2025-01-26 23:27:54.877648 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:27:59.027509 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:27:59.027976 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:32:10.446212 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:32:10.515082 [ STBU ] start button loaded
+2025-01-26 23:32:10.518007 [ MEDI ] workspaces loaded
+2025-01-26 23:32:10.531013 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:32:14.279962 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:32:14.280427 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:36:42.849504 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:36:42.915580 [ STBU ] start button loaded
+2025-01-26 23:36:42.918449 [ MEDI ] workspaces loaded
+2025-01-26 23:36:42.931548 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:36:42.942101 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-26 23:36:42.942467 [ QKLC ] app launcher client loaded
+2025-01-26 23:36:42.943801 [ FOCC ] focused client loaded
+2025-01-26 23:36:42.944881 [ TRAY ] system tray loaded
+2025-01-26 23:36:42.952162 [ NTWK ] network loaded
+2025-01-26 23:36:42.964262 [ AUDI ] audio loaded
+2025-01-26 23:36:42.968106 [ BTLV ] battery level loaded
+2025-01-26 23:36:42.969155 [ TIME ] time loaded
+2025-01-26 23:36:43.012662 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:37:09.119704 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:37:09.120149 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:37:09.843173 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:37:09.910357 [ STBU ] start button loaded
+2025-01-26 23:37:09.914184 [ MEDI ] workspaces loaded
+2025-01-26 23:37:09.927022 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:37:09.937637 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-26 23:37:09.938065 [ QKLC ] app launcher client loaded
+2025-01-26 23:37:09.939462 [ FOCC ] focused client loaded
+2025-01-26 23:37:09.940466 [ TRAY ] system tray loaded
+2025-01-26 23:37:09.947434 [ NTWK ] network loaded
+2025-01-26 23:37:09.959659 [ AUDI ] audio loaded
+2025-01-26 23:37:09.963472 [ BTLV ] battery level loaded
+2025-01-26 23:37:09.964536 [ TIME ] time loaded
+2025-01-26 23:37:09.998940 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:38:11.276135 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:38:11.276610 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:38:12.140920 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:38:12.208919 [ STBU ] start button loaded
+2025-01-26 23:38:12.211798 [ MEDI ] workspaces loaded
+2025-01-26 23:38:12.224962 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:38:12.235597 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-26 23:38:12.235972 [ QKLC ] app launcher client loaded
+2025-01-26 23:38:12.237334 [ FOCC ] focused client loaded
+2025-01-26 23:38:12.238454 [ TRAY ] system tray loaded
+2025-01-26 23:38:12.245525 [ NTWK ] network loaded
+2025-01-26 23:38:12.257734 [ AUDI ] audio loaded
+2025-01-26 23:38:12.261536 [ BTLV ] battery level loaded
+2025-01-26 23:38:12.262604 [ TIME ] time loaded
+2025-01-26 23:38:12.305488 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:38:54.463984 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:38:54.464672 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:38:56.218002 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:38:56.285181 [ STBU ] start button loaded
+2025-01-26 23:38:56.288047 [ MEDI ] workspaces loaded
+2025-01-26 23:38:56.301394 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:38:56.312239 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-26 23:38:56.312605 [ QKLC ] app launcher client loaded
+2025-01-26 23:38:56.313900 [ FOCC ] focused client loaded
+2025-01-26 23:38:56.315014 [ TRAY ] system tray loaded
+2025-01-26 23:38:56.322107 [ NTWK ] network loaded
+2025-01-26 23:38:56.334277 [ AUDI ] audio loaded
+2025-01-26 23:38:56.338139 [ BTLV ] battery level loaded
+2025-01-26 23:38:56.339198 [ TIME ] time loaded
+2025-01-26 23:38:56.381352 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-26 23:55:56.470270 [ GTKG ] hyprtaskbar stopped
+2025-01-26 23:55:56.470803 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-26 23:55:58.160412 [ GTKG ] hyprtaskbar launched
+2025-01-26 23:55:58.228562 [ STBU ] start button loaded
+2025-01-26 23:55:58.231432 [ MEDI ] workspaces loaded
+2025-01-26 23:55:58.244670 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-26 23:55:58.255670 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-26 23:55:58.256036 [ QKLC ] app launcher client loaded
+2025-01-26 23:55:58.257402 [ FOCC ] focused client loaded
+2025-01-26 23:55:58.258441 [ TRAY ] system tray loaded
+2025-01-26 23:55:58.265412 [ NTWK ] network loaded
+2025-01-26 23:55:58.277519 [ AUDI ] audio loaded
+2025-01-26 23:55:58.281805 [ BTLV ] battery level loaded
+2025-01-26 23:55:58.282972 [ TIME ] time loaded
+2025-01-26 23:55:58.316435 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:01:23.188645 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:01:23.189119 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:01:24.383495 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:01:24.450804 [ STBU ] start button loaded
+2025-01-27 00:01:24.454160 [ MEDI ] workspaces loaded
+2025-01-27 00:01:24.467213 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:01:24.478066 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-27 00:01:24.478430 [ QKLC ] app launcher client loaded
+2025-01-27 00:01:24.479746 [ FOCC ] focused client loaded
+2025-01-27 00:01:24.480780 [ TRAY ] system tray loaded
+2025-01-27 00:01:24.488017 [ NTWK ] network loaded
+2025-01-27 00:01:24.501915 [ AUDI ] audio loaded
+2025-01-27 00:01:24.506588 [ BTLV ] battery level loaded
+2025-01-27 00:01:24.508108 [ TIME ] time loaded
+2025-01-27 00:01:24.551211 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:04:28.620103 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:04:28.620623 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:04:29.891710 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:04:29.962209 [ STBU ] start button loaded
+2025-01-27 00:04:29.965129 [ MEDI ] workspaces loaded
+2025-01-27 00:04:29.978133 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:04:29.988708 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-27 00:04:29.989063 [ QKLC ] app launcher client loaded
+2025-01-27 00:04:29.990327 [ FOCC ] focused client loaded
+2025-01-27 00:04:29.991362 [ TRAY ] system tray loaded
+2025-01-27 00:04:29.998662 [ NTWK ] network loaded
+2025-01-27 00:04:30.010818 [ AUDI ] audio loaded
+2025-01-27 00:04:30.014844 [ BTLV ] battery level loaded
+2025-01-27 00:04:30.015893 [ TIME ] time loaded
+2025-01-27 00:04:30.049775 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:04:34.931903 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:04:34.932367 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:04:45.988072 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:04:46.055474 [ STBU ] start button loaded
+2025-01-27 00:04:46.058542 [ MEDI ] workspaces loaded
+2025-01-27 00:04:46.071703 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:04:46.083510 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-27 00:04:46.083911 [ QKLC ] app launcher client loaded
+2025-01-27 00:04:46.085325 [ FOCC ] focused client loaded
+2025-01-27 00:04:46.086409 [ TRAY ] system tray loaded
+2025-01-27 00:04:46.093724 [ NTWK ] network loaded
+2025-01-27 00:04:46.106000 [ AUDI ] audio loaded
+2025-01-27 00:04:46.109994 [ BTLV ] battery level loaded
+2025-01-27 00:04:46.111083 [ TIME ] time loaded
+2025-01-27 00:04:46.153799 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:05:40.557891 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:05:40.558400 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:18:07.241453 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:18:07.306241 [ STBU ] start button loaded
+2025-01-27 00:18:07.309135 [ MEDI ] workspaces loaded
+2025-01-27 00:18:07.323295 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:18:07.525258 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-27 00:18:07.635017 [ QKLC ] app launcher client loaded
+2025-01-27 00:18:07.637718 [ FOCC ] focused client loaded
+2025-01-27 00:18:07.640061 [ TRAY ] system tray loaded
+2025-01-27 00:18:07.655113 [ NTWK ] network loaded
+2025-01-27 00:18:07.679990 [ AUDI ] audio loaded
+2025-01-27 00:18:07.686222 [ BTLV ] battery level loaded
+2025-01-27 00:18:07.688603 [ TIME ] time loaded
+2025-01-27 00:18:07.737782 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:18:22.028475 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:18:22.028945 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:18:23.538114 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:18:23.604526 [ STBU ] start button loaded
+2025-01-27 00:18:23.607509 [ MEDI ] workspaces loaded
+2025-01-27 00:18:23.620548 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:18:23.688716 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-27 00:18:23.743059 [ QKLC ] app launcher client loaded
+2025-01-27 00:18:23.745247 [ FOCC ] focused client loaded
+2025-01-27 00:18:23.746877 [ TRAY ] system tray loaded
+2025-01-27 00:18:23.757665 [ NTWK ] network loaded
+2025-01-27 00:18:23.777594 [ AUDI ] audio loaded
+2025-01-27 00:18:23.782354 [ BTLV ] battery level loaded
+2025-01-27 00:18:23.784033 [ TIME ] time loaded
+2025-01-27 00:18:23.827967 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:18:53.497568 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:18:53.498058 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:18:54.415491 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:18:54.483617 [ STBU ] start button loaded
+2025-01-27 00:18:54.486514 [ MEDI ] workspaces loaded
+2025-01-27 00:18:54.499613 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:18:54.564201 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-27 00:18:54.618347 [ QKLC ] app launcher client loaded
+2025-01-27 00:18:54.620462 [ FOCC ] focused client loaded
+2025-01-27 00:18:54.622030 [ TRAY ] system tray loaded
+2025-01-27 00:18:54.632264 [ NTWK ] network loaded
+2025-01-27 00:18:54.651348 [ AUDI ] audio loaded
+2025-01-27 00:18:54.656606 [ BTLV ] battery level loaded
+2025-01-27 00:18:54.658351 [ TIME ] time loaded
+2025-01-27 00:18:54.704048 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:19:21.945762 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:19:21.946150 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:19:22.793891 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:19:22.860042 [ STBU ] start button loaded
+2025-01-27 00:19:22.862990 [ MEDI ] workspaces loaded
+2025-01-27 00:19:22.876093 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:19:22.938363 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-27 00:19:22.982827 [ QKLC ] app launcher client loaded
+2025-01-27 00:19:22.984768 [ FOCC ] focused client loaded
+2025-01-27 00:19:22.985815 [ TRAY ] system tray loaded
+2025-01-27 00:19:22.993145 [ NTWK ] network loaded
+2025-01-27 00:19:23.005565 [ AUDI ] audio loaded
+2025-01-27 00:19:23.009599 [ BTLV ] battery level loaded
+2025-01-27 00:19:23.010993 [ TIME ] time loaded
+2025-01-27 00:19:23.054144 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:19:44.410212 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:19:44.410711 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:19:45.250255 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:19:45.315952 [ STBU ] start button loaded
+2025-01-27 00:19:45.318744 [ MEDI ] workspaces loaded
+2025-01-27 00:19:45.331812 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:19:45.398455 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-27 00:19:45.444364 [ QKLC ] app launcher client loaded
+2025-01-27 00:19:45.446516 [ FOCC ] focused client loaded
+2025-01-27 00:19:45.448158 [ TRAY ] system tray loaded
+2025-01-27 00:19:45.458593 [ NTWK ] network loaded
+2025-01-27 00:19:45.478284 [ AUDI ] audio loaded
+2025-01-27 00:19:45.483720 [ BTLV ] battery level loaded
+2025-01-27 00:19:45.485362 [ TIME ] time loaded
+2025-01-27 00:19:45.530734 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:20:00.473623 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:20:00.474144 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:20:01.338499 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:20:01.406163 [ STBU ] start button loaded
+2025-01-27 00:20:01.408959 [ MEDI ] workspaces loaded
+2025-01-27 00:20:01.422283 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:20:04.458450 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:20:04.458823 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:20:19.243316 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:20:19.310771 [ STBU ] start button loaded
+2025-01-27 00:20:19.313706 [ MEDI ] workspaces loaded
+2025-01-27 00:20:19.326939 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:20:19.394315 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-27 00:20:19.447858 [ QKLC ] app launcher client loaded
+2025-01-27 00:20:19.449484 [ FOCC ] focused client loaded
+2025-01-27 00:20:19.451216 [ TRAY ] system tray loaded
+2025-01-27 00:20:19.459499 [ NTWK ] network loaded
+2025-01-27 00:20:19.474135 [ AUDI ] audio loaded
+2025-01-27 00:20:19.478778 [ BTLV ] battery level loaded
+2025-01-27 00:20:19.480013 [ TIME ] time loaded
+2025-01-27 00:20:19.522099 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:29:04.192601 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:29:04.193073 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:29:05.304191 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:29:05.371082 [ STBU ] start button loaded
+2025-01-27 00:29:05.373984 [ MEDI ] workspaces loaded
+2025-01-27 00:29:05.386921 [ QKLC ] [{'name': 'VSCodium - Wayland', 'icon': 'vscodium', 'executable': '/usr/bin/codium --enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland %F'}]
+2025-01-27 00:29:05.452769 [ QKLC ] [{'name': 'Htop', 'icon': 'htop', 'executable': 'htop'}, {'name': 'Shotwell', 'icon': 'org.gnome.Shotwell', 'executable': 'shotwell %U'}]
+2025-01-27 00:29:05.505452 [ QKLC ] app launcher client loaded
+2025-01-27 00:29:05.507622 [ FOCC ] focused client loaded
+2025-01-27 00:29:05.509308 [ TRAY ] system tray loaded
+2025-01-27 00:29:05.519917 [ NTWK ] network loaded
+2025-01-27 00:29:05.539875 [ AUDI ] audio loaded
+2025-01-27 00:29:05.544743 [ BTLV ] battery level loaded
+2025-01-27 00:29:05.546389 [ TIME ] time loaded
+2025-01-27 00:29:05.591780 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 00:32:20.640058 [ GTKG ] hyprtaskbar stopped
+2025-01-27 00:32:20.640590 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-27 00:32:21.689475 [ GTKG ] hyprtaskbar launched
+2025-01-27 00:32:21.756853 [ STBU ] start button loaded
+2025-01-27 00:32:21.759895 [ MEDI ] workspaces loaded
+2025-01-27 00:32:21.885175 [ QKLC ] app launcher client loaded
+2025-01-27 00:32:21.887054 [ FOCC ] focused client loaded
+2025-01-27 00:32:21.888529 [ TRAY ] system tray loaded
+2025-01-27 00:32:21.897710 [ NTWK ] network loaded
+2025-01-27 00:32:21.919706 [ AUDI ] audio loaded
+2025-01-27 00:32:21.924808 [ BTLV ] battery level loaded
+2025-01-27 00:32:21.926581 [ TIME ] time loaded
+2025-01-27 00:32:21.968322 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-27 13:55:49.325965 [ GTKG ] hyprtaskbar stopped
+2025-01-27 13:55:49.326467 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:22:44.568212 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:22:46.316681 [ STBU ] start button loaded
+2025-01-30 01:22:46.338849 [ MEDI ] workspaces loaded
+2025-01-30 01:22:50.101782 [ QKLC ] app launcher client loaded
+2025-01-30 01:22:50.104466 [ FOCC ] focused client loaded
+2025-01-30 01:22:50.106507 [ TRAY ] system tray loaded
+2025-01-30 01:22:50.267360 [ NTWK ] network loaded
+2025-01-30 01:22:50.319425 [ AUDI ] audio loaded
+2025-01-30 01:22:50.336638 [ BTLV ] battery level loaded
+2025-01-30 01:22:50.338644 [ TIME ] time loaded
+2025-01-30 01:22:50.384962 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:28:30.659478 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:28:30.659977 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:28:41.013659 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:28:41.081368 [ STBU ] start button loaded
+2025-01-30 01:28:41.084029 [ MEDI ] workspaces loaded
+2025-01-30 01:28:41.218311 [ QKLC ] app launcher client loaded
+2025-01-30 01:28:41.220644 [ FOCC ] focused client loaded
+2025-01-30 01:28:41.222377 [ TRAY ] system tray loaded
+2025-01-30 01:28:41.237142 [ NTWK ] network loaded
+2025-01-30 01:28:41.258935 [ AUDI ] audio loaded
+2025-01-30 01:28:41.263591 [ BTLV ] battery level loaded
+2025-01-30 01:28:41.265049 [ TIME ] time loaded
+2025-01-30 01:28:41.308622 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:29:49.348805 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:29:49.349262 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:29:50.557468 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:29:50.624316 [ STBU ] start button loaded
+2025-01-30 01:29:50.626931 [ MEDI ] workspaces loaded
+2025-01-30 01:29:50.760390 [ QKLC ] app launcher client loaded
+2025-01-30 01:29:50.762516 [ FOCC ] focused client loaded
+2025-01-30 01:29:50.764152 [ TRAY ] system tray loaded
+2025-01-30 01:29:50.774532 [ NTWK ] network loaded
+2025-01-30 01:29:50.795153 [ AUDI ] audio loaded
+2025-01-30 01:29:50.800152 [ BTLV ] battery level loaded
+2025-01-30 01:29:50.802043 [ TIME ] time loaded
+2025-01-30 01:29:50.845642 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:31:05.392382 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:31:05.392843 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:31:06.320566 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:31:06.386725 [ STBU ] start button loaded
+2025-01-30 01:31:06.389412 [ MEDI ] workspaces loaded
+2025-01-30 01:31:06.590675 [ QKLC ] app launcher client loaded
+2025-01-30 01:31:06.592579 [ FOCC ] focused client loaded
+2025-01-30 01:31:06.593977 [ TRAY ] system tray loaded
+2025-01-30 01:31:06.602996 [ NTWK ] network loaded
+2025-01-30 01:31:06.619812 [ AUDI ] audio loaded
+2025-01-30 01:31:06.624233 [ BTLV ] battery level loaded
+2025-01-30 01:31:06.625651 [ TIME ] time loaded
+2025-01-30 01:31:06.667575 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:31:15.951563 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:31:15.952027 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:33:21.702029 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:33:21.790055 [ STBU ] start button loaded
+2025-01-30 01:33:21.792793 [ MEDI ] workspaces loaded
+2025-01-30 01:33:38.646889 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:33:38.647356 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:33:39.878973 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:33:39.944912 [ STBU ] start button loaded
+2025-01-30 01:33:39.947713 [ MEDI ] workspaces loaded
+2025-01-30 01:33:41.959261 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:33:41.959522 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:33:50.693601 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:33:50.760455 [ STBU ] start button loaded
+2025-01-30 01:33:50.763161 [ MEDI ] workspaces loaded
+2025-01-30 01:37:31.006460 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:37:31.006951 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:37:31.826851 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:37:31.894018 [ STBU ] start button loaded
+2025-01-30 01:37:31.896759 [ MEDI ] workspaces loaded
+2025-01-30 01:37:39.725968 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:37:39.726475 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:37:40.968982 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:37:41.036123 [ STBU ] start button loaded
+2025-01-30 01:37:41.038834 [ MEDI ] workspaces loaded
+2025-01-30 01:38:32.709795 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:38:32.710364 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:38:33.626197 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:38:33.693766 [ STBU ] start button loaded
+2025-01-30 01:38:33.696429 [ MEDI ] workspaces loaded
+2025-01-30 01:38:43.901415 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:38:43.901894 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:38:44.685269 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:38:44.752758 [ STBU ] start button loaded
+2025-01-30 01:38:44.755414 [ MEDI ] workspaces loaded
+2025-01-30 01:39:31.678012 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:39:31.678501 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:39:43.772999 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:39:43.839801 [ STBU ] start button loaded
+2025-01-30 01:39:43.842397 [ MEDI ] workspaces loaded
+2025-01-30 01:39:48.092883 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:39:48.093309 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:39:49.169608 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:39:49.236248 [ STBU ] start button loaded
+2025-01-30 01:39:49.239023 [ MEDI ] workspaces loaded
+2025-01-30 01:40:14.181256 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:40:14.181815 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:40:14.961355 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:40:15.030135 [ STBU ] start button loaded
+2025-01-30 01:40:15.032746 [ MEDI ] workspaces loaded
+2025-01-30 01:40:15.056828 [ QKLC ] app launcher client loaded
+2025-01-30 01:40:15.058151 [ FOCC ] focused client loaded
+2025-01-30 01:40:15.059259 [ TRAY ] system tray loaded
+2025-01-30 01:40:15.066567 [ NTWK ] network loaded
+2025-01-30 01:40:15.078611 [ AUDI ] audio loaded
+2025-01-30 01:40:15.082625 [ BTLV ] battery level loaded
+2025-01-30 01:40:15.083687 [ TIME ] time loaded
+2025-01-30 01:40:15.174880 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:42:03.380964 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:42:03.381421 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:42:04.275781 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:42:04.340651 [ STBU ] start button loaded
+2025-01-30 01:42:04.343321 [ MEDI ] workspaces loaded
+2025-01-30 01:42:04.367636 [ QKLC ] app launcher client loaded
+2025-01-30 01:42:04.368970 [ FOCC ] focused client loaded
+2025-01-30 01:42:04.370036 [ TRAY ] system tray loaded
+2025-01-30 01:42:04.376997 [ NTWK ] network loaded
+2025-01-30 01:42:04.388849 [ AUDI ] audio loaded
+2025-01-30 01:42:04.392213 [ BTLV ] battery level loaded
+2025-01-30 01:42:04.393266 [ TIME ] time loaded
+2025-01-30 01:42:04.479345 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:42:22.835337 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:42:22.901065 [ STBU ] start button loaded
+2025-01-30 01:42:22.903704 [ MEDI ] workspaces loaded
+2025-01-30 01:42:22.927067 [ QKLC ] app launcher client loaded
+2025-01-30 01:42:22.928377 [ FOCC ] focused client loaded
+2025-01-30 01:42:22.929417 [ TRAY ] system tray loaded
+2025-01-30 01:42:22.936458 [ NTWK ] network loaded
+2025-01-30 01:42:22.948618 [ AUDI ] audio loaded
+2025-01-30 01:42:22.952461 [ BTLV ] battery level loaded
+2025-01-30 01:42:22.953520 [ TIME ] time loaded
+2025-01-30 01:42:23.044106 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:42:27.308505 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:42:27.308947 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:42:48.465007 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:42:48.533670 [ STBU ] start button loaded
+2025-01-30 01:42:48.536313 [ MEDI ] workspaces loaded
+2025-01-30 01:42:48.560225 [ QKLC ] app launcher client loaded
+2025-01-30 01:42:48.561520 [ FOCC ] focused client loaded
+2025-01-30 01:42:48.562578 [ TRAY ] system tray loaded
+2025-01-30 01:42:48.569613 [ NTWK ] network loaded
+2025-01-30 01:42:48.581648 [ AUDI ] audio loaded
+2025-01-30 01:42:48.585827 [ BTLV ] battery level loaded
+2025-01-30 01:42:48.586881 [ TIME ] time loaded
+2025-01-30 01:42:48.672508 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:42:52.532210 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:42:52.532675 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:43:06.769767 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:43:06.835357 [ STBU ] start button loaded
+2025-01-30 01:43:06.838075 [ MEDI ] workspaces loaded
+2025-01-30 01:43:06.861649 [ QKLC ] app launcher client loaded
+2025-01-30 01:43:06.863030 [ FOCC ] focused client loaded
+2025-01-30 01:43:06.864062 [ TRAY ] system tray loaded
+2025-01-30 01:43:06.870948 [ NTWK ] network loaded
+2025-01-30 01:43:06.882935 [ AUDI ] audio loaded
+2025-01-30 01:43:06.885951 [ BTLV ] battery level loaded
+2025-01-30 01:43:06.887008 [ TIME ] time loaded
+2025-01-30 01:43:06.967524 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:43:10.436588 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:43:10.437070 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:43:17.111735 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:43:17.177958 [ STBU ] start button loaded
+2025-01-30 01:43:17.180578 [ MEDI ] workspaces loaded
+2025-01-30 01:43:17.204064 [ QKLC ] app launcher client loaded
+2025-01-30 01:43:17.205340 [ FOCC ] focused client loaded
+2025-01-30 01:43:17.206357 [ TRAY ] system tray loaded
+2025-01-30 01:43:17.213564 [ NTWK ] network loaded
+2025-01-30 01:43:17.225385 [ AUDI ] audio loaded
+2025-01-30 01:43:17.229485 [ BTLV ] battery level loaded
+2025-01-30 01:43:17.230530 [ TIME ] time loaded
+2025-01-30 01:43:17.317142 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:44:22.872709 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:44:22.941689 [ STBU ] start button loaded
+2025-01-30 01:44:22.944573 [ MEDI ] workspaces loaded
+2025-01-30 01:44:22.968924 [ QKLC ] app launcher client loaded
+2025-01-30 01:44:22.970260 [ FOCC ] focused client loaded
+2025-01-30 01:44:22.971326 [ TRAY ] system tray loaded
+2025-01-30 01:44:22.978176 [ NTWK ] network loaded
+2025-01-30 01:44:22.990145 [ AUDI ] audio loaded
+2025-01-30 01:44:22.994119 [ BTLV ] battery level loaded
+2025-01-30 01:44:22.995240 [ TIME ] time loaded
+2025-01-30 01:44:23.081087 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:44:28.875973 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:44:28.876585 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:44:39.907089 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:44:39.973733 [ STBU ] start button loaded
+2025-01-30 01:44:39.976441 [ MEDI ] workspaces loaded
+2025-01-30 01:44:40.001159 [ QKLC ] app launcher client loaded
+2025-01-30 01:44:40.002471 [ FOCC ] focused client loaded
+2025-01-30 01:44:40.003541 [ TRAY ] system tray loaded
+2025-01-30 01:44:40.010569 [ NTWK ] network loaded
+2025-01-30 01:44:40.022626 [ AUDI ] audio loaded
+2025-01-30 01:44:40.026519 [ BTLV ] battery level loaded
+2025-01-30 01:44:40.027575 [ TIME ] time loaded
+2025-01-30 01:44:40.114222 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:44:53.435796 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:44:53.436299 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:45:08.306882 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:45:08.374521 [ STBU ] start button loaded
+2025-01-30 01:45:08.377188 [ MEDI ] workspaces loaded
+2025-01-30 01:45:08.400552 [ QKLC ] app launcher client loaded
+2025-01-30 01:45:08.401823 [ FOCC ] focused client loaded
+2025-01-30 01:45:08.402821 [ TRAY ] system tray loaded
+2025-01-30 01:45:08.409966 [ NTWK ] network loaded
+2025-01-30 01:45:08.422011 [ AUDI ] audio loaded
+2025-01-30 01:45:08.426138 [ BTLV ] battery level loaded
+2025-01-30 01:45:08.427191 [ TIME ] time loaded
+2025-01-30 01:45:08.515722 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:46:11.444229 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:46:11.444755 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:46:12.331704 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:46:12.398863 [ STBU ] start button loaded
+2025-01-30 01:46:12.401519 [ MEDI ] workspaces loaded
+2025-01-30 01:46:12.425893 [ QKLC ] app launcher client loaded
+2025-01-30 01:46:12.427202 [ FOCC ] focused client loaded
+2025-01-30 01:46:12.428313 [ TRAY ] system tray loaded
+2025-01-30 01:46:12.435458 [ NTWK ] network loaded
+2025-01-30 01:46:12.448069 [ AUDI ] audio loaded
+2025-01-30 01:46:12.451930 [ BTLV ] battery level loaded
+2025-01-30 01:46:12.452981 [ TIME ] time loaded
+2025-01-30 01:46:12.500742 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:47:12.651368 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:47:12.651836 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:47:13.858153 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:47:13.923930 [ STBU ] start button loaded
+2025-01-30 01:47:13.926646 [ MEDI ] workspaces loaded
+2025-01-30 01:47:13.950263 [ QKLC ] app launcher client loaded
+2025-01-30 01:47:13.951580 [ FOCC ] focused client loaded
+2025-01-30 01:47:13.952651 [ TRAY ] system tray loaded
+2025-01-30 01:47:13.959499 [ NTWK ] network loaded
+2025-01-30 01:47:13.971523 [ AUDI ] audio loaded
+2025-01-30 01:47:13.975566 [ BTLV ] battery level loaded
+2025-01-30 01:47:13.976637 [ TIME ] time loaded
+2025-01-30 01:47:14.023608 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:47:44.123360 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:47:44.123915 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:47:45.186029 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:47:45.249526 [ STBU ] start button loaded
+2025-01-30 01:47:45.252229 [ MEDI ] workspaces loaded
+2025-01-30 01:47:45.275737 [ QKLC ] app launcher client loaded
+2025-01-30 01:47:45.277077 [ FOCC ] focused client loaded
+2025-01-30 01:47:45.278120 [ TRAY ] system tray loaded
+2025-01-30 01:47:45.285055 [ NTWK ] network loaded
+2025-01-30 01:47:45.296943 [ AUDI ] audio loaded
+2025-01-30 01:47:45.300845 [ BTLV ] battery level loaded
+2025-01-30 01:47:45.301901 [ TIME ] time loaded
+2025-01-30 01:47:45.340850 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:47:47.760989 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 01:48:55.051406 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:48:55.051884 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:48:55.992264 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:48:56.057891 [ STBU ] start button loaded
+2025-01-30 01:48:56.060532 [ MEDI ] workspaces loaded
+2025-01-30 01:48:56.084146 [ QKLC ] app launcher client loaded
+2025-01-30 01:48:56.085430 [ FOCC ] focused client loaded
+2025-01-30 01:48:56.086606 [ TRAY ] system tray loaded
+2025-01-30 01:48:56.093407 [ NTWK ] network loaded
+2025-01-30 01:48:56.105349 [ AUDI ] audio loaded
+2025-01-30 01:48:56.109333 [ BTLV ] battery level loaded
+2025-01-30 01:48:56.110372 [ TIME ] time loaded
+2025-01-30 01:48:56.167461 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:52:59.673865 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:52:59.674353 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:53:00.660515 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:53:00.727196 [ STBU ] start button loaded
+2025-01-30 01:53:00.729912 [ MEDI ] workspaces loaded
+2025-01-30 01:53:00.753744 [ QKLC ] app launcher client loaded
+2025-01-30 01:53:00.755048 [ FOCC ] focused client loaded
+2025-01-30 01:53:00.756061 [ TRAY ] system tray loaded
+2025-01-30 01:53:00.763049 [ NTWK ] network loaded
+2025-01-30 01:53:00.775212 [ AUDI ] audio loaded
+2025-01-30 01:53:00.779137 [ BTLV ] battery level loaded
+2025-01-30 01:53:00.780218 [ TIME ] time loaded
+2025-01-30 01:53:00.825682 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:53:18.201561 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:53:18.202025 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:53:19.141210 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:53:19.209424 [ STBU ] start button loaded
+2025-01-30 01:53:19.213499 [ MEDI ] workspaces loaded
+2025-01-30 01:53:19.239020 [ QKLC ] app launcher client loaded
+2025-01-30 01:53:19.240574 [ FOCC ] focused client loaded
+2025-01-30 01:53:19.241731 [ TRAY ] system tray loaded
+2025-01-30 01:53:19.249171 [ NTWK ] network loaded
+2025-01-30 01:53:19.265708 [ AUDI ] audio loaded
+2025-01-30 01:53:19.270701 [ BTLV ] battery level loaded
+2025-01-30 01:53:19.272327 [ TIME ] time loaded
+2025-01-30 01:53:19.321208 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:53:30.513881 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:53:30.514379 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:53:40.752955 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:53:40.820168 [ STBU ] start button loaded
+2025-01-30 01:53:40.822829 [ MEDI ] workspaces loaded
+2025-01-30 01:53:40.849074 [ QKLC ] app launcher client loaded
+2025-01-30 01:53:40.850416 [ FOCC ] focused client loaded
+2025-01-30 01:53:40.851481 [ TRAY ] system tray loaded
+2025-01-30 01:53:40.858563 [ NTWK ] network loaded
+2025-01-30 01:53:40.870546 [ AUDI ] audio loaded
+2025-01-30 01:53:40.874326 [ BTLV ] battery level loaded
+2025-01-30 01:53:40.875402 [ TIME ] time loaded
+2025-01-30 01:53:40.923767 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:53:51.977637 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:53:51.978112 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:53:52.842276 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:53:52.910177 [ STBU ] start button loaded
+2025-01-30 01:53:52.914216 [ MEDI ] workspaces loaded
+2025-01-30 01:53:52.938377 [ QKLC ] app launcher client loaded
+2025-01-30 01:53:52.939723 [ FOCC ] focused client loaded
+2025-01-30 01:53:52.940773 [ TRAY ] system tray loaded
+2025-01-30 01:53:52.947755 [ NTWK ] network loaded
+2025-01-30 01:53:52.959738 [ AUDI ] audio loaded
+2025-01-30 01:53:52.963617 [ BTLV ] battery level loaded
+2025-01-30 01:53:52.964686 [ TIME ] time loaded
+2025-01-30 01:53:53.011084 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:54:00.993279 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:54:00.993981 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:54:07.266135 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:54:07.333889 [ STBU ] start button loaded
+2025-01-30 01:54:07.336571 [ MEDI ] workspaces loaded
+2025-01-30 01:54:07.360316 [ QKLC ] app launcher client loaded
+2025-01-30 01:54:07.361636 [ FOCC ] focused client loaded
+2025-01-30 01:54:07.362713 [ TRAY ] system tray loaded
+2025-01-30 01:54:07.369755 [ NTWK ] network loaded
+2025-01-30 01:54:07.381679 [ AUDI ] audio loaded
+2025-01-30 01:54:07.385222 [ BTLV ] battery level loaded
+2025-01-30 01:54:07.386299 [ TIME ] time loaded
+2025-01-30 01:54:07.434322 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:54:08.833334 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 01:54:20.997527 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:54:20.998075 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:54:21.736171 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:54:21.801225 [ STBU ] start button loaded
+2025-01-30 01:54:21.803805 [ MEDI ] workspaces loaded
+2025-01-30 01:54:21.828629 [ QKLC ] app launcher client loaded
+2025-01-30 01:54:21.829914 [ FOCC ] focused client loaded
+2025-01-30 01:54:21.830905 [ TRAY ] system tray loaded
+2025-01-30 01:54:21.837734 [ NTWK ] network loaded
+2025-01-30 01:54:21.849661 [ AUDI ] audio loaded
+2025-01-30 01:54:21.853773 [ BTLV ] battery level loaded
+2025-01-30 01:54:21.854780 [ TIME ] time loaded
+2025-01-30 01:54:21.900212 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:54:28.617356 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:54:28.617916 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:55:07.960629 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:55:08.026163 [ STBU ] start button loaded
+2025-01-30 01:55:08.028843 [ MEDI ] workspaces loaded
+2025-01-30 01:55:08.052798 [ QKLC ] app launcher client loaded
+2025-01-30 01:55:08.054085 [ FOCC ] focused client loaded
+2025-01-30 01:55:08.055116 [ TRAY ] system tray loaded
+2025-01-30 01:55:08.062315 [ NTWK ] network loaded
+2025-01-30 01:55:08.074234 [ AUDI ] audio loaded
+2025-01-30 01:55:08.077764 [ BTLV ] battery level loaded
+2025-01-30 01:55:08.078772 [ TIME ] time loaded
+2025-01-30 01:55:08.124230 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:55:18.049252 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:55:18.049771 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:55:18.776184 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:55:18.843273 [ STBU ] start button loaded
+2025-01-30 01:55:18.847145 [ MEDI ] workspaces loaded
+2025-01-30 01:55:18.870945 [ QKLC ] app launcher client loaded
+2025-01-30 01:55:18.872235 [ FOCC ] focused client loaded
+2025-01-30 01:55:18.873282 [ TRAY ] system tray loaded
+2025-01-30 01:55:18.880518 [ NTWK ] network loaded
+2025-01-30 01:55:18.892556 [ AUDI ] audio loaded
+2025-01-30 01:55:18.896080 [ BTLV ] battery level loaded
+2025-01-30 01:55:18.897122 [ TIME ] time loaded
+2025-01-30 01:55:18.943030 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:55:20.159121 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 01:55:46.841793 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:55:46.842232 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:56:35.870139 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:56:35.937551 [ STBU ] start button loaded
+2025-01-30 01:56:35.940217 [ MEDI ] workspaces loaded
+2025-01-30 01:56:35.964293 [ QKLC ] app launcher client loaded
+2025-01-30 01:56:35.965659 [ FOCC ] focused client loaded
+2025-01-30 01:56:35.966789 [ TRAY ] system tray loaded
+2025-01-30 01:56:35.973672 [ NTWK ] network loaded
+2025-01-30 01:56:35.985784 [ AUDI ] audio loaded
+2025-01-30 01:56:35.989674 [ BTLV ] battery level loaded
+2025-01-30 01:56:35.990776 [ TIME ] time loaded
+2025-01-30 01:56:36.037040 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:56:37.831696 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 01:56:44.840972 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:56:44.841461 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:57:10.154824 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:57:10.222348 [ STBU ] start button loaded
+2025-01-30 01:57:10.224949 [ MEDI ] workspaces loaded
+2025-01-30 01:57:10.249579 [ QKLC ] app launcher client loaded
+2025-01-30 01:57:10.250918 [ FOCC ] focused client loaded
+2025-01-30 01:57:10.251957 [ TRAY ] system tray loaded
+2025-01-30 01:57:10.258868 [ NTWK ] network loaded
+2025-01-30 01:57:10.270843 [ AUDI ] audio loaded
+2025-01-30 01:57:10.274971 [ BTLV ] battery level loaded
+2025-01-30 01:57:10.276013 [ TIME ] time loaded
+2025-01-30 01:57:10.323055 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:57:12.238684 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 01:57:48.848672 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:57:48.849136 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:58:35.711065 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:58:35.776350 [ STBU ] start button loaded
+2025-01-30 01:58:35.779072 [ MEDI ] workspaces loaded
+2025-01-30 01:58:35.802924 [ QKLC ] app launcher client loaded
+2025-01-30 01:58:35.804297 [ FOCC ] focused client loaded
+2025-01-30 01:58:35.805372 [ TRAY ] system tray loaded
+2025-01-30 01:58:35.812334 [ NTWK ] network loaded
+2025-01-30 01:58:35.824405 [ AUDI ] audio loaded
+2025-01-30 01:58:35.828110 [ BTLV ] battery level loaded
+2025-01-30 01:58:35.829158 [ TIME ] time loaded
+2025-01-30 01:58:35.875664 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:58:38.534436 [ QKLC ] vlc --started-from-file %U
+2025-01-30 01:58:52.600422 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:58:52.600895 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:58:53.663249 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:58:53.730317 [ STBU ] start button loaded
+2025-01-30 01:58:53.733028 [ MEDI ] workspaces loaded
+2025-01-30 01:58:53.756728 [ QKLC ] app launcher client loaded
+2025-01-30 01:58:53.757989 [ FOCC ] focused client loaded
+2025-01-30 01:58:53.758996 [ TRAY ] system tray loaded
+2025-01-30 01:58:53.766090 [ NTWK ] network loaded
+2025-01-30 01:58:53.778084 [ AUDI ] audio loaded
+2025-01-30 01:58:53.782141 [ BTLV ] battery level loaded
+2025-01-30 01:58:53.783214 [ TIME ] time loaded
+2025-01-30 01:58:53.823188 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:58:55.222032 [ QKLC ] vlc --started-from-file %U
+2025-01-30 01:58:59.808162 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:58:59.808588 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:59:05.514270 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:59:05.580455 [ STBU ] start button loaded
+2025-01-30 01:59:05.583129 [ MEDI ] workspaces loaded
+2025-01-30 01:59:05.606973 [ QKLC ] app launcher client loaded
+2025-01-30 01:59:05.608261 [ FOCC ] focused client loaded
+2025-01-30 01:59:05.609278 [ TRAY ] system tray loaded
+2025-01-30 01:59:05.616166 [ NTWK ] network loaded
+2025-01-30 01:59:05.628100 [ AUDI ] audio loaded
+2025-01-30 01:59:05.631895 [ BTLV ] battery level loaded
+2025-01-30 01:59:05.633005 [ TIME ] time loaded
+2025-01-30 01:59:05.681154 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:59:07.806185 [ QKLC ] vlc --started-from-file %U
+2025-01-30 01:59:12.568590 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:59:12.569058 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:59:13.287836 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:59:13.355689 [ STBU ] start button loaded
+2025-01-30 01:59:13.358351 [ MEDI ] workspaces loaded
+2025-01-30 01:59:13.383159 [ QKLC ] app launcher client loaded
+2025-01-30 01:59:13.384423 [ FOCC ] focused client loaded
+2025-01-30 01:59:13.385421 [ TRAY ] system tray loaded
+2025-01-30 01:59:13.392262 [ NTWK ] network loaded
+2025-01-30 01:59:13.404100 [ AUDI ] audio loaded
+2025-01-30 01:59:13.408072 [ BTLV ] battery level loaded
+2025-01-30 01:59:13.409089 [ TIME ] time loaded
+2025-01-30 01:59:13.456822 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:59:15.126209 [ QKLC ] vlc --started-from-file %U
+2025-01-30 01:59:35.728413 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:59:35.728898 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 01:59:36.590415 [ GTKG ] hyprtaskbar launched
+2025-01-30 01:59:36.655230 [ STBU ] start button loaded
+2025-01-30 01:59:36.657885 [ MEDI ] workspaces loaded
+2025-01-30 01:59:36.681523 [ QKLC ] app launcher client loaded
+2025-01-30 01:59:36.682818 [ FOCC ] focused client loaded
+2025-01-30 01:59:36.683869 [ TRAY ] system tray loaded
+2025-01-30 01:59:36.690513 [ NTWK ] network loaded
+2025-01-30 01:59:36.702319 [ AUDI ] audio loaded
+2025-01-30 01:59:36.706495 [ BTLV ] battery level loaded
+2025-01-30 01:59:36.707795 [ TIME ] time loaded
+2025-01-30 01:59:36.755761 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 01:59:37.942094 [ QKLC ] vlc --started-from-file %U
+2025-01-30 01:59:53.312486 [ GTKG ] hyprtaskbar stopped
+2025-01-30 01:59:53.313011 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:00:23.398206 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:00:23.467311 [ STBU ] start button loaded
+2025-01-30 02:00:23.469894 [ MEDI ] workspaces loaded
+2025-01-30 02:00:23.494414 [ QKLC ] app launcher client loaded
+2025-01-30 02:00:23.495730 [ FOCC ] focused client loaded
+2025-01-30 02:00:23.497021 [ TRAY ] system tray loaded
+2025-01-30 02:00:23.504051 [ NTWK ] network loaded
+2025-01-30 02:00:23.516110 [ AUDI ] audio loaded
+2025-01-30 02:00:23.520241 [ BTLV ] battery level loaded
+2025-01-30 02:00:23.521493 [ TIME ] time loaded
+2025-01-30 02:00:23.562408 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:00:24.909903 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 02:00:44.180314 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:00:44.180814 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:00:44.788169 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:00:44.856720 [ STBU ] start button loaded
+2025-01-30 02:00:44.859392 [ MEDI ] workspaces loaded
+2025-01-30 02:00:44.884742 [ QKLC ] app launcher client loaded
+2025-01-30 02:00:44.886066 [ FOCC ] focused client loaded
+2025-01-30 02:00:44.887216 [ TRAY ] system tray loaded
+2025-01-30 02:00:44.894457 [ NTWK ] network loaded
+2025-01-30 02:00:44.907181 [ AUDI ] audio loaded
+2025-01-30 02:00:44.911211 [ BTLV ] battery level loaded
+2025-01-30 02:00:44.912277 [ TIME ] time loaded
+2025-01-30 02:00:44.958921 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:00:46.189807 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 02:00:56.248289 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:00:56.248794 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:00:57.143937 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:00:57.211727 [ STBU ] start button loaded
+2025-01-30 02:00:57.215621 [ MEDI ] workspaces loaded
+2025-01-30 02:00:57.239621 [ QKLC ] app launcher client loaded
+2025-01-30 02:00:57.240943 [ FOCC ] focused client loaded
+2025-01-30 02:00:57.242012 [ TRAY ] system tray loaded
+2025-01-30 02:00:57.248908 [ NTWK ] network loaded
+2025-01-30 02:00:57.261129 [ AUDI ] audio loaded
+2025-01-30 02:00:57.265119 [ BTLV ] battery level loaded
+2025-01-30 02:00:57.266174 [ TIME ] time loaded
+2025-01-30 02:00:57.314721 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:00:58.701709 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 02:01:02.199807 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:01:02.200294 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:01:14.266765 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:01:14.332141 [ STBU ] start button loaded
+2025-01-30 02:01:14.334759 [ MEDI ] workspaces loaded
+2025-01-30 02:01:14.358393 [ QKLC ] app launcher client loaded
+2025-01-30 02:01:14.359820 [ FOCC ] focused client loaded
+2025-01-30 02:01:14.360943 [ TRAY ] system tray loaded
+2025-01-30 02:01:14.367888 [ NTWK ] network loaded
+2025-01-30 02:01:14.379909 [ AUDI ] audio loaded
+2025-01-30 02:01:14.383514 [ BTLV ] battery level loaded
+2025-01-30 02:01:14.384611 [ TIME ] time loaded
+2025-01-30 02:01:14.432619 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:02:08.023691 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:02:08.024059 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:02:08.844861 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:02:08.911293 [ STBU ] start button loaded
+2025-01-30 02:02:08.913873 [ MEDI ] workspaces loaded
+2025-01-30 02:02:08.937217 [ QKLC ] app launcher client loaded
+2025-01-30 02:02:08.938449 [ FOCC ] focused client loaded
+2025-01-30 02:02:08.939433 [ TRAY ] system tray loaded
+2025-01-30 02:02:08.946346 [ NTWK ] network loaded
+2025-01-30 02:02:08.958382 [ AUDI ] audio loaded
+2025-01-30 02:02:08.962411 [ BTLV ] battery level loaded
+2025-01-30 02:02:08.963492 [ TIME ] time loaded
+2025-01-30 02:02:09.009707 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:02:11.229449 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 02:02:12.951549 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:02:12.951995 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:02:28.093820 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:02:28.160299 [ STBU ] start button loaded
+2025-01-30 02:02:28.163012 [ MEDI ] workspaces loaded
+2025-01-30 02:02:28.186972 [ QKLC ] app launcher client loaded
+2025-01-30 02:02:28.188429 [ FOCC ] focused client loaded
+2025-01-30 02:02:28.189626 [ TRAY ] system tray loaded
+2025-01-30 02:02:28.196690 [ NTWK ] network loaded
+2025-01-30 02:02:28.209395 [ AUDI ] audio loaded
+2025-01-30 02:02:28.212981 [ BTLV ] battery level loaded
+2025-01-30 02:02:28.214021 [ TIME ] time loaded
+2025-01-30 02:02:28.262299 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:02:30.384663 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 02:12:28.965247 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:12:28.965715 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:12:30.009939 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:12:30.076431 [ STBU ] start button loaded
+2025-01-30 02:12:30.079128 [ MEDI ] workspaces loaded
+2025-01-30 02:12:30.103708 [ QKLC ] app launcher client loaded
+2025-01-30 02:12:30.104972 [ FOCC ] focused client loaded
+2025-01-30 02:12:30.105977 [ TRAY ] system tray loaded
+2025-01-30 02:12:30.112933 [ NTWK ] network loaded
+2025-01-30 02:12:30.124901 [ AUDI ] audio loaded
+2025-01-30 02:12:30.128811 [ BTLV ] battery level loaded
+2025-01-30 02:12:30.129897 [ TIME ] time loaded
+2025-01-30 02:12:30.177088 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:12:31.715057 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 02:12:52.722599 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:12:57.370356 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:12:57.370922 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:13:01.016884 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:13:01.084056 [ STBU ] start button loaded
+2025-01-30 02:13:01.086714 [ MEDI ] workspaces loaded
+2025-01-30 02:13:01.110741 [ QKLC ] app launcher client loaded
+2025-01-30 02:13:01.112044 [ FOCC ] focused client loaded
+2025-01-30 02:13:01.113083 [ TRAY ] system tray loaded
+2025-01-30 02:13:01.120181 [ NTWK ] network loaded
+2025-01-30 02:13:01.132200 [ AUDI ] audio loaded
+2025-01-30 02:13:01.135841 [ BTLV ] battery level loaded
+2025-01-30 02:13:01.136903 [ TIME ] time loaded
+2025-01-30 02:13:01.177043 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:13:02.778762 [ QKLC ] /usr/bin/vlc --started-from-file %U
+2025-01-30 02:13:39.375719 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:13:39.376356 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:14:00.263863 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:14:00.330310 [ STBU ] start button loaded
+2025-01-30 02:14:00.333026 [ MEDI ] workspaces loaded
+2025-01-30 02:14:00.357036 [ QKLC ] app launcher client loaded
+2025-01-30 02:14:00.358334 [ FOCC ] focused client loaded
+2025-01-30 02:14:00.359359 [ TRAY ] system tray loaded
+2025-01-30 02:14:00.366385 [ NTWK ] network loaded
+2025-01-30 02:14:00.378534 [ AUDI ] audio loaded
+2025-01-30 02:14:00.382601 [ BTLV ] battery level loaded
+2025-01-30 02:14:00.383677 [ TIME ] time loaded
+2025-01-30 02:14:00.429402 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:14:36.100245 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:14:36.100591 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:15:06.085192 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:15:06.150113 [ STBU ] start button loaded
+2025-01-30 02:15:06.152829 [ MEDI ] workspaces loaded
+2025-01-30 02:15:06.177025 [ QKLC ] app launcher client loaded
+2025-01-30 02:15:06.178345 [ FOCC ] focused client loaded
+2025-01-30 02:15:06.179369 [ TRAY ] system tray loaded
+2025-01-30 02:15:06.186294 [ NTWK ] network loaded
+2025-01-30 02:15:06.198207 [ AUDI ] audio loaded
+2025-01-30 02:15:06.202360 [ BTLV ] battery level loaded
+2025-01-30 02:15:06.203430 [ TIME ] time loaded
+2025-01-30 02:15:06.249632 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:15:17.892347 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:15:17.892936 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:15:18.902026 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:15:18.968473 [ STBU ] start button loaded
+2025-01-30 02:15:18.971085 [ MEDI ] workspaces loaded
+2025-01-30 02:15:18.996074 [ QKLC ] app launcher client loaded
+2025-01-30 02:15:18.997405 [ FOCC ] focused client loaded
+2025-01-30 02:15:18.998437 [ TRAY ] system tray loaded
+2025-01-30 02:15:19.005541 [ NTWK ] network loaded
+2025-01-30 02:15:19.017583 [ AUDI ] audio loaded
+2025-01-30 02:15:19.021146 [ BTLV ] battery level loaded
+2025-01-30 02:15:19.022198 [ TIME ] time loaded
+2025-01-30 02:15:19.067228 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:15:35.580004 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:15:35.580480 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:15:39.898572 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:15:39.964235 [ STBU ] start button loaded
+2025-01-30 02:15:39.967513 [ MEDI ] workspaces loaded
+2025-01-30 02:15:39.992194 [ QKLC ] app launcher client loaded
+2025-01-30 02:15:39.993580 [ FOCC ] focused client loaded
+2025-01-30 02:15:39.994606 [ TRAY ] system tray loaded
+2025-01-30 02:15:40.002020 [ NTWK ] network loaded
+2025-01-30 02:15:40.014065 [ AUDI ] audio loaded
+2025-01-30 02:15:40.018038 [ BTLV ] battery level loaded
+2025-01-30 02:15:40.019098 [ TIME ] time loaded
+2025-01-30 02:15:40.067400 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:16:22.460269 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:16:22.460747 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:16:23.354868 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:16:23.420089 [ STBU ] start button loaded
+2025-01-30 02:16:23.422805 [ MEDI ] workspaces loaded
+2025-01-30 02:16:23.447577 [ QKLC ] app launcher client loaded
+2025-01-30 02:16:23.448925 [ FOCC ] focused client loaded
+2025-01-30 02:16:23.449991 [ TRAY ] system tray loaded
+2025-01-30 02:16:23.456930 [ NTWK ] network loaded
+2025-01-30 02:16:23.468895 [ AUDI ] audio loaded
+2025-01-30 02:16:23.472838 [ BTLV ] battery level loaded
+2025-01-30 02:16:23.473881 [ TIME ] time loaded
+2025-01-30 02:16:23.518617 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:16:58.956063 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:16:58.956582 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:17:07.838649 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:17:07.904293 [ STBU ] start button loaded
+2025-01-30 02:17:07.906984 [ MEDI ] workspaces loaded
+2025-01-30 02:17:07.931552 [ QKLC ] app launcher client loaded
+2025-01-30 02:17:07.932850 [ FOCC ] focused client loaded
+2025-01-30 02:17:07.933853 [ TRAY ] system tray loaded
+2025-01-30 02:17:07.941203 [ NTWK ] network loaded
+2025-01-30 02:17:07.953085 [ AUDI ] audio loaded
+2025-01-30 02:17:07.957292 [ BTLV ] battery level loaded
+2025-01-30 02:17:07.958336 [ TIME ] time loaded
+2025-01-30 02:17:08.003811 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:17:58.763932 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:17:58.764398 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:17:59.757308 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:17:59.824659 [ STBU ] start button loaded
+2025-01-30 02:17:59.827355 [ MEDI ] workspaces loaded
+2025-01-30 02:17:59.862278 [ QKLC ] app launcher client loaded
+2025-01-30 02:17:59.863570 [ FOCC ] focused client loaded
+2025-01-30 02:17:59.864572 [ TRAY ] system tray loaded
+2025-01-30 02:17:59.871858 [ NTWK ] network loaded
+2025-01-30 02:17:59.883859 [ AUDI ] audio loaded
+2025-01-30 02:17:59.888077 [ BTLV ] battery level loaded
+2025-01-30 02:17:59.889124 [ TIME ] time loaded
+2025-01-30 02:17:59.936854 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:18:35.268200 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:18:35.268916 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:18:36.571096 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:18:36.639354 [ STBU ] start button loaded
+2025-01-30 02:18:36.642057 [ MEDI ] workspaces loaded
+2025-01-30 02:18:36.676230 [ QKLC ] app launcher client loaded
+2025-01-30 02:18:36.677523 [ FOCC ] focused client loaded
+2025-01-30 02:18:36.678560 [ TRAY ] system tray loaded
+2025-01-30 02:18:36.685543 [ NTWK ] network loaded
+2025-01-30 02:18:36.697403 [ AUDI ] audio loaded
+2025-01-30 02:18:36.701191 [ BTLV ] battery level loaded
+2025-01-30 02:18:36.702242 [ TIME ] time loaded
+2025-01-30 02:18:36.749684 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:19:45.459347 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:19:45.459823 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:19:47.054255 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:19:47.120768 [ STBU ] start button loaded
+2025-01-30 02:19:47.123483 [ MEDI ] workspaces loaded
+2025-01-30 02:19:47.157835 [ QKLC ] app launcher client loaded
+2025-01-30 02:19:47.159150 [ FOCC ] focused client loaded
+2025-01-30 02:19:47.160218 [ TRAY ] system tray loaded
+2025-01-30 02:19:47.167309 [ NTWK ] network loaded
+2025-01-30 02:19:47.179554 [ AUDI ] audio loaded
+2025-01-30 02:19:47.183813 [ BTLV ] battery level loaded
+2025-01-30 02:19:47.184882 [ TIME ] time loaded
+2025-01-30 02:19:47.232396 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:21:31.962817 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:21:31.963103 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:21:34.606851 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:21:34.674105 [ STBU ] start button loaded
+2025-01-30 02:21:34.676625 [ MEDI ] workspaces loaded
+2025-01-30 02:21:34.710814 [ QKLC ] app launcher client loaded
+2025-01-30 02:21:34.712144 [ FOCC ] focused client loaded
+2025-01-30 02:21:34.713192 [ TRAY ] system tray loaded
+2025-01-30 02:21:34.720418 [ NTWK ] network loaded
+2025-01-30 02:21:34.732572 [ AUDI ] audio loaded
+2025-01-30 02:21:34.736939 [ BTLV ] battery level loaded
+2025-01-30 02:21:34.738008 [ TIME ] time loaded
+2025-01-30 02:21:34.785340 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:21:41.970721 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:21:41.971197 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:21:55.927570 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:21:55.992058 [ STBU ] start button loaded
+2025-01-30 02:21:55.994788 [ MEDI ] workspaces loaded
+2025-01-30 02:21:56.031328 [ QKLC ] app launcher client loaded
+2025-01-30 02:21:56.032718 [ FOCC ] focused client loaded
+2025-01-30 02:21:56.033769 [ TRAY ] system tray loaded
+2025-01-30 02:21:56.040456 [ NTWK ] network loaded
+2025-01-30 02:21:56.052366 [ AUDI ] audio loaded
+2025-01-30 02:21:56.056067 [ BTLV ] battery level loaded
+2025-01-30 02:21:56.057111 [ TIME ] time loaded
+2025-01-30 02:21:56.104366 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:29:12.178597 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:29:12.179091 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:29:13.417791 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:29:13.483246 [ STBU ] start button loaded
+2025-01-30 02:29:13.485907 [ MEDI ] workspaces loaded
+2025-01-30 02:29:13.522260 [ QKLC ] app launcher client loaded
+2025-01-30 02:29:13.523586 [ FOCC ] focused client loaded
+2025-01-30 02:29:13.524602 [ TRAY ] system tray loaded
+2025-01-30 02:29:13.531431 [ NTWK ] network loaded
+2025-01-30 02:29:13.544128 [ AUDI ] audio loaded
+2025-01-30 02:29:13.548316 [ BTLV ] battery level loaded
+2025-01-30 02:29:13.549137 [ TIME ] time loaded
+2025-01-30 02:29:13.592994 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:32:32.172337 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:32:32.172872 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:32:33.162906 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:32:33.228989 [ STBU ] start button loaded
+2025-01-30 02:32:33.231682 [ MEDI ] workspaces loaded
+2025-01-30 02:32:33.266331 [ QKLC ] app launcher client loaded
+2025-01-30 02:32:33.267589 [ FOCC ] focused client loaded
+2025-01-30 02:32:33.268596 [ TRAY ] system tray loaded
+2025-01-30 02:32:33.275454 [ NTWK ] network loaded
+2025-01-30 02:32:33.287697 [ AUDI ] audio loaded
+2025-01-30 02:32:33.291191 [ BTLV ] battery level loaded
+2025-01-30 02:32:33.291988 [ TIME ] time loaded
+2025-01-30 02:32:33.338280 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:34:06.604969 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:34:06.605430 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:34:07.895098 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:34:07.962353 [ STBU ] start button loaded
+2025-01-30 02:34:07.965056 [ MEDI ] workspaces loaded
+2025-01-30 02:34:07.999927 [ QKLC ] app launcher client loaded
+2025-01-30 02:34:08.001221 [ FOCC ] focused client loaded
+2025-01-30 02:34:08.002251 [ TRAY ] system tray loaded
+2025-01-30 02:34:08.009457 [ NTWK ] network loaded
+2025-01-30 02:34:36.733277 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:34:36.733704 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:34:38.256188 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:34:38.321184 [ STBU ] start button loaded
+2025-01-30 02:34:38.323957 [ MEDI ] workspaces loaded
+2025-01-30 02:34:38.358076 [ QKLC ] app launcher client loaded
+2025-01-30 02:34:38.359402 [ FOCC ] focused client loaded
+2025-01-30 02:34:38.360445 [ TRAY ] system tray loaded
+2025-01-30 02:34:38.367779 [ NTWK ] network loaded
+2025-01-30 02:35:00.669965 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:35:00.670426 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:35:02.166449 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:35:02.233609 [ STBU ] start button loaded
+2025-01-30 02:35:02.236326 [ MEDI ] workspaces loaded
+2025-01-30 02:35:02.270256 [ QKLC ] app launcher client loaded
+2025-01-30 02:35:02.271545 [ FOCC ] focused client loaded
+2025-01-30 02:35:02.272564 [ TRAY ] system tray loaded
+2025-01-30 02:35:02.279538 [ NTWK ] network loaded
+2025-01-30 02:35:02.291942 [ AUDI ] audio loaded
+2025-01-30 02:35:02.295945 [ BTLV ] battery level loaded
+2025-01-30 02:35:02.296787 [ TIME ] time loaded
+2025-01-30 02:35:02.342926 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:38:36.254243 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:38:36.254723 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:38:50.888344 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:38:50.952299 [ STBU ] start button loaded
+2025-01-30 02:38:50.954994 [ MEDI ] workspaces loaded
+2025-01-30 02:38:50.989563 [ QKLC ] app launcher client loaded
+2025-01-30 02:38:50.990875 [ FOCC ] focused client loaded
+2025-01-30 02:38:50.991903 [ TRAY ] system tray loaded
+2025-01-30 02:38:50.998828 [ NTWK ] network loaded
+2025-01-30 02:39:02.782030 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:39:02.782502 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:39:03.654446 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:39:03.719360 [ STBU ] start button loaded
+2025-01-30 02:39:03.722083 [ MEDI ] workspaces loaded
+2025-01-30 02:39:03.756205 [ QKLC ] app launcher client loaded
+2025-01-30 02:39:03.757496 [ FOCC ] focused client loaded
+2025-01-30 02:39:03.758523 [ TRAY ] system tray loaded
+2025-01-30 02:39:03.765566 [ NTWK ] network loaded
+2025-01-30 02:39:16.021978 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:39:16.022541 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:39:16.944042 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:39:17.011142 [ STBU ] start button loaded
+2025-01-30 02:39:17.013888 [ MEDI ] workspaces loaded
+2025-01-30 02:39:17.047869 [ QKLC ] app launcher client loaded
+2025-01-30 02:39:17.049161 [ FOCC ] focused client loaded
+2025-01-30 02:39:17.050196 [ TRAY ] system tray loaded
+2025-01-30 02:39:17.057491 [ NTWK ] network loaded
+2025-01-30 02:39:22.679153 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:39:22.679670 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:39:32.384574 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:39:32.451827 [ STBU ] start button loaded
+2025-01-30 02:39:32.454440 [ MEDI ] workspaces loaded
+2025-01-30 02:39:32.490484 [ QKLC ] app launcher client loaded
+2025-01-30 02:39:32.491848 [ FOCC ] focused client loaded
+2025-01-30 02:39:32.492881 [ TRAY ] system tray loaded
+2025-01-30 02:39:32.500220 [ NTWK ] network loaded
+2025-01-30 02:39:49.022309 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:39:49.022831 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:39:49.886728 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:39:49.953207 [ STBU ] start button loaded
+2025-01-30 02:39:49.956118 [ MEDI ] workspaces loaded
+2025-01-30 02:39:49.996987 [ QKLC ] app launcher client loaded
+2025-01-30 02:39:49.998558 [ FOCC ] focused client loaded
+2025-01-30 02:39:49.999666 [ TRAY ] system tray loaded
+2025-01-30 02:39:50.006968 [ NTWK ] network loaded
+2025-01-30 02:42:47.086522 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:42:47.087222 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:42:47.913533 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:42:47.980762 [ STBU ] start button loaded
+2025-01-30 02:42:47.983304 [ MEDI ] workspaces loaded
+2025-01-30 02:42:48.017268 [ QKLC ] app launcher client loaded
+2025-01-30 02:42:48.018597 [ FOCC ] focused client loaded
+2025-01-30 02:42:48.019712 [ TRAY ] system tray loaded
+2025-01-30 02:42:48.026793 [ NTWK ] network loaded
+2025-01-30 02:42:54.927162 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:42:54.927719 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:43:11.344805 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:43:11.410990 [ STBU ] start button loaded
+2025-01-30 02:43:11.413684 [ MEDI ] workspaces loaded
+2025-01-30 02:43:11.451878 [ QKLC ] app launcher client loaded
+2025-01-30 02:43:11.453213 [ FOCC ] focused client loaded
+2025-01-30 02:43:11.454268 [ TRAY ] system tray loaded
+2025-01-30 02:43:11.461326 [ NTWK ] network loaded
+2025-01-30 02:43:11.473750 [ AUDI ] audio loaded
+2025-01-30 02:43:11.477915 [ BTLV ] battery level loaded
+2025-01-30 02:43:11.478947 [ TIME ] time loaded
+2025-01-30 02:43:11.519001 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:43:59.974709 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:43:59.975176 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:44:00.870405 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:44:00.937436 [ STBU ] start button loaded
+2025-01-30 02:44:00.940098 [ MEDI ] workspaces loaded
+2025-01-30 02:44:00.974146 [ QKLC ] app launcher client loaded
+2025-01-30 02:44:00.975406 [ FOCC ] focused client loaded
+2025-01-30 02:44:00.976415 [ TRAY ] system tray loaded
+2025-01-30 02:44:00.983674 [ NTWK ] network loaded
+2025-01-30 02:44:00.995804 [ AUDI ] audio loaded
+2025-01-30 02:44:00.999612 [ BTLV ] battery level loaded
+2025-01-30 02:44:01.000602 [ TIME ] time loaded
+2025-01-30 02:44:01.045798 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-30 02:48:02.542811 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:48:02.543282 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:48:03.602162 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:48:03.663838 [ STBU ] start button loaded
+2025-01-30 02:48:03.668044 [ MEDI ] workspaces loaded
+2025-01-30 02:48:03.702379 [ QKLC ] app launcher client loaded
+2025-01-30 02:48:03.703749 [ FOCC ] focused client loaded
+2025-01-30 02:48:03.704857 [ TRAY ] system tray loaded
+2025-01-30 02:48:03.712053 [ NTWK ] network loaded
+2025-01-30 02:51:19.742658 [ GTKG ] hyprtaskbar stopped
+2025-01-30 02:51:19.743121 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-30 02:51:20.461156 [ GTKG ] hyprtaskbar launched
+2025-01-30 02:51:20.526643 [ STBU ] start button loaded
+2025-01-30 02:51:20.529338 [ MEDI ] workspaces loaded
+2025-01-30 02:51:20.563455 [ QKLC ] app launcher client loaded
+2025-01-30 02:51:20.564788 [ FOCC ] focused client loaded
+2025-01-30 02:51:20.565842 [ TRAY ] system tray loaded
+2025-01-30 02:51:20.573116 [ NTWK ] network loaded
+2025-01-30 02:51:20.585259 [ AUDI ] audio loaded
+2025-01-30 02:51:20.589752 [ BTLV ] battery level loaded
+2025-01-30 02:51:20.590754 [ TIME ] time loaded
+2025-01-30 02:51:20.637075 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 15:11:17.528817 [ GTKG ] hyprtaskbar stopped
+2025-01-31 15:11:17.529305 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 15:42:44.561935 [ GTKG ] hyprtaskbar launched
+2025-01-31 15:43:34.399989 [ GTKG ] hyprtaskbar stopped
+2025-01-31 15:43:34.400243 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 15:43:35.318077 [ GTKG ] hyprtaskbar launched
+2025-01-31 15:43:35.384212 [ STBU ] start button loaded
+2025-01-31 15:43:35.386790 [ MEDI ] workspaces loaded
+2025-01-31 15:43:35.421239 [ QKLC ] app launcher client loaded
+2025-01-31 15:43:35.422567 [ FOCC ] focused client loaded
+2025-01-31 15:43:35.423646 [ TRAY ] system tray loaded
+2025-01-31 15:43:35.430709 [ NTWK ] network loaded
+2025-01-31 15:43:35.443006 [ AUDI ] audio loaded
+2025-01-31 15:43:35.447235 [ BTLV ] battery level loaded
+2025-01-31 15:43:35.448252 [ TIME ] time loaded
+2025-01-31 15:43:35.495036 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 15:44:15.804434 [ GTKG ] hyprtaskbar stopped
+2025-01-31 15:44:15.804932 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 15:44:17.040508 [ GTKG ] hyprtaskbar launched
+2025-01-31 15:44:17.107454 [ STBU ] start button loaded
+2025-01-31 15:44:17.110121 [ MEDI ] workspaces loaded
+2025-01-31 15:44:17.145133 [ QKLC ] app launcher client loaded
+2025-01-31 15:44:17.146537 [ FOCC ] focused client loaded
+2025-01-31 15:44:17.147571 [ TRAY ] system tray loaded
+2025-01-31 15:44:17.154803 [ NTWK ] network loaded
+2025-01-31 15:44:17.167276 [ AUDI ] audio loaded
+2025-01-31 15:44:17.171172 [ BTLV ] battery level loaded
+2025-01-31 15:44:17.172170 [ TIME ] time loaded
+2025-01-31 15:44:17.218309 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 15:44:18.524055 [ GTKG ] hyprtaskbar stopped
+2025-01-31 15:44:18.524540 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 15:44:44.177776 [ GTKG ] hyprtaskbar launched
+2025-01-31 15:44:44.245313 [ STBU ] start button loaded
+2025-01-31 15:44:44.249232 [ MEDI ] workspaces loaded
+2025-01-31 15:44:44.283570 [ QKLC ] app launcher client loaded
+2025-01-31 15:44:44.284949 [ FOCC ] focused client loaded
+2025-01-31 15:44:44.286066 [ TRAY ] system tray loaded
+2025-01-31 15:44:44.292999 [ NTWK ] network loaded
+2025-01-31 15:44:44.305162 [ AUDI ] audio loaded
+2025-01-31 15:44:44.308964 [ BTLV ] battery level loaded
+2025-01-31 15:44:44.310035 [ TIME ] time loaded
+2025-01-31 15:44:44.356243 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 15:44:46.315827 [ GTKG ] hyprtaskbar stopped
+2025-01-31 15:44:46.316520 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 15:46:11.230159 [ GTKG ] hyprtaskbar launched
+2025-01-31 15:46:11.295522 [ STBU ] start button loaded
+2025-01-31 15:46:11.298271 [ MEDI ] workspaces loaded
+2025-01-31 15:46:11.332565 [ QKLC ] app launcher client loaded
+2025-01-31 15:46:11.333922 [ FOCC ] focused client loaded
+2025-01-31 15:46:11.335011 [ TRAY ] system tray loaded
+2025-01-31 15:46:11.342192 [ NTWK ] network loaded
+2025-01-31 15:46:11.354453 [ AUDI ] audio loaded
+2025-01-31 15:46:11.358633 [ BTLV ] battery level loaded
+2025-01-31 15:46:11.359690 [ TIME ] time loaded
+2025-01-31 15:46:11.399890 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 15:48:30.715642 [ GTKG ] hyprtaskbar stopped
+2025-01-31 15:48:30.716206 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 15:48:31.695662 [ GTKG ] hyprtaskbar launched
+2025-01-31 15:48:31.762458 [ STBU ] start button loaded
+2025-01-31 15:48:31.765150 [ MEDI ] workspaces loaded
+2025-01-31 15:48:31.809113 [ QKLC ] app launcher client loaded
+2025-01-31 15:48:31.810481 [ FOCC ] focused client loaded
+2025-01-31 15:48:31.811540 [ TRAY ] system tray loaded
+2025-01-31 15:48:31.818592 [ NTWK ] network loaded
+2025-01-31 15:48:31.831493 [ AUDI ] audio loaded
+2025-01-31 15:48:31.835833 [ BTLV ] battery level loaded
+2025-01-31 15:48:31.836864 [ TIME ] time loaded
+2025-01-31 15:48:31.890990 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 15:48:45.707580 [ GTKG ] hyprtaskbar stopped
+2025-01-31 15:48:45.708038 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 15:48:46.734319 [ GTKG ] hyprtaskbar launched
+2025-01-31 15:48:46.804555 [ STBU ] start button loaded
+2025-01-31 15:48:46.807228 [ MEDI ] workspaces loaded
+2025-01-31 15:48:46.853520 [ QKLC ] app launcher client loaded
+2025-01-31 15:48:46.854791 [ FOCC ] focused client loaded
+2025-01-31 15:48:46.855790 [ TRAY ] system tray loaded
+2025-01-31 15:48:46.862751 [ NTWK ] network loaded
+2025-01-31 15:48:46.875447 [ AUDI ] audio loaded
+2025-01-31 15:48:46.879256 [ BTLV ] battery level loaded
+2025-01-31 15:48:46.880286 [ TIME ] time loaded
+2025-01-31 15:48:46.926821 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:03:33.665442 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:03:33.665950 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:03:35.001062 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:03:35.065465 [ STBU ] start button loaded
+2025-01-31 16:03:35.068138 [ MEDI ] workspaces loaded
+2025-01-31 16:03:35.114454 [ QKLC ] app launcher client loaded
+2025-01-31 16:03:35.115830 [ FOCC ] focused client loaded
+2025-01-31 16:03:35.116860 [ TRAY ] system tray loaded
+2025-01-31 16:03:35.123733 [ NTWK ] network loaded
+2025-01-31 16:03:35.135994 [ AUDI ] audio loaded
+2025-01-31 16:03:35.140029 [ BTLV ] battery level loaded
+2025-01-31 16:03:35.141032 [ TIME ] time loaded
+2025-01-31 16:03:35.185371 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:04:10.665139 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:04:10.665593 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:04:11.545204 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:04:11.612042 [ STBU ] start button loaded
+2025-01-31 16:04:11.614779 [ MEDI ] workspaces loaded
+2025-01-31 16:04:11.659443 [ QKLC ] app launcher client loaded
+2025-01-31 16:04:11.660786 [ FOCC ] focused client loaded
+2025-01-31 16:04:11.661822 [ TRAY ] system tray loaded
+2025-01-31 16:04:11.668906 [ NTWK ] network loaded
+2025-01-31 16:08:00.560784 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:08:00.561485 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:08:01.698986 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:08:01.765300 [ STBU ] start button loaded
+2025-01-31 16:08:01.768083 [ MEDI ] workspaces loaded
+2025-01-31 16:08:01.813447 [ QKLC ] app launcher client loaded
+2025-01-31 16:08:01.814842 [ FOCC ] focused client loaded
+2025-01-31 16:08:01.815949 [ TRAY ] system tray loaded
+2025-01-31 16:08:01.823162 [ NTWK ] network loaded
+2025-01-31 16:08:01.835467 [ AUDI ] audio loaded
+2025-01-31 16:08:01.839224 [ BTLV ] battery level loaded
+2025-01-31 16:08:01.840279 [ TIME ] time loaded
+2025-01-31 16:08:01.887365 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:08:35.792551 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:08:35.793123 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:09:38.647884 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:09:38.715461 [ STBU ] start button loaded
+2025-01-31 16:09:38.718235 [ MEDI ] workspaces loaded
+2025-01-31 16:09:38.763036 [ QKLC ] app launcher client loaded
+2025-01-31 16:09:38.764361 [ FOCC ] focused client loaded
+2025-01-31 16:09:38.765399 [ TRAY ] system tray loaded
+2025-01-31 16:09:38.772753 [ NTWK ] network loaded
+2025-01-31 16:09:38.785299 [ AUDI ] audio loaded
+2025-01-31 16:09:38.789595 [ BTLV ] battery level loaded
+2025-01-31 16:09:38.790685 [ TIME ] time loaded
+2025-01-31 16:09:38.838336 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:10:24.232978 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:10:24.233663 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:10:25.229877 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:10:25.296682 [ STBU ] start button loaded
+2025-01-31 16:10:25.299417 [ MEDI ] workspaces loaded
+2025-01-31 16:10:25.344911 [ QKLC ] app launcher client loaded
+2025-01-31 16:10:25.346229 [ FOCC ] focused client loaded
+2025-01-31 16:10:25.347259 [ TRAY ] system tray loaded
+2025-01-31 16:10:25.354450 [ NTWK ] network loaded
+2025-01-31 16:10:25.367040 [ AUDI ] audio loaded
+2025-01-31 16:10:25.371438 [ BTLV ] battery level loaded
+2025-01-31 16:10:25.372666 [ TIME ] time loaded
+2025-01-31 16:10:25.420050 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:15:46.767575 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:15:46.768044 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:15:47.635970 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:15:47.704412 [ STBU ] start button loaded
+2025-01-31 16:15:47.707086 [ MEDI ] workspaces loaded
+2025-01-31 16:15:47.751107 [ QKLC ] app launcher client loaded
+2025-01-31 16:15:47.752408 [ FOCC ] focused client loaded
+2025-01-31 16:15:47.753437 [ TRAY ] system tray loaded
+2025-01-31 16:15:47.760421 [ NTWK ] network loaded
+2025-01-31 16:15:47.772719 [ AUDI ] audio loaded
+2025-01-31 16:15:47.776834 [ BTLV ] battery level loaded
+2025-01-31 16:15:47.777849 [ TIME ] time loaded
+2025-01-31 16:15:47.825074 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:15:51.647532 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:15:51.647999 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:15:57.917316 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:15:57.984794 [ STBU ] start button loaded
+2025-01-31 16:15:57.987382 [ MEDI ] workspaces loaded
+2025-01-31 16:15:58.032057 [ QKLC ] app launcher client loaded
+2025-01-31 16:15:58.033381 [ FOCC ] focused client loaded
+2025-01-31 16:15:58.034419 [ TRAY ] system tray loaded
+2025-01-31 16:15:58.041270 [ NTWK ] network loaded
+2025-01-31 16:15:58.053598 [ AUDI ] audio loaded
+2025-01-31 16:15:58.057616 [ BTLV ] battery level loaded
+2025-01-31 16:15:58.058652 [ TIME ] time loaded
+2025-01-31 16:15:58.105843 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:17:48.839204 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:17:48.839885 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:17:49.663205 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:17:49.730269 [ STBU ] start button loaded
+2025-01-31 16:17:49.732926 [ MEDI ] workspaces loaded
+2025-01-31 16:17:49.776926 [ QKLC ] app launcher client loaded
+2025-01-31 16:17:49.778246 [ FOCC ] focused client loaded
+2025-01-31 16:17:49.779344 [ TRAY ] system tray loaded
+2025-01-31 16:17:49.786156 [ NTWK ] network loaded
+2025-01-31 16:17:49.798623 [ AUDI ] audio loaded
+2025-01-31 16:17:49.802915 [ BTLV ] battery level loaded
+2025-01-31 16:17:49.803911 [ TIME ] time loaded
+2025-01-31 16:17:49.851190 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:18:09.807623 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:18:09.808318 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:18:11.072853 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:18:11.140085 [ STBU ] start button loaded
+2025-01-31 16:18:11.142872 [ MEDI ] workspaces loaded
+2025-01-31 16:18:11.188004 [ QKLC ] app launcher client loaded
+2025-01-31 16:18:11.189356 [ FOCC ] focused client loaded
+2025-01-31 16:18:11.190419 [ TRAY ] system tray loaded
+2025-01-31 16:18:11.197512 [ NTWK ] network loaded
+2025-01-31 16:18:11.209932 [ AUDI ] audio loaded
+2025-01-31 16:18:11.214333 [ BTLV ] battery level loaded
+2025-01-31 16:18:11.215398 [ TIME ] time loaded
+2025-01-31 16:18:11.262312 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:18:28.750866 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:18:28.751347 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:18:29.926519 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:18:29.994825 [ STBU ] start button loaded
+2025-01-31 16:18:29.997584 [ MEDI ] workspaces loaded
+2025-01-31 16:18:30.043055 [ QKLC ] app launcher client loaded
+2025-01-31 16:18:30.044761 [ FOCC ] focused client loaded
+2025-01-31 16:18:30.045844 [ TRAY ] system tray loaded
+2025-01-31 16:18:30.052960 [ NTWK ] network loaded
+2025-01-31 16:24:41.406830 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:24:41.407314 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:25:05.247798 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:25:05.316755 [ STBU ] start button loaded
+2025-01-31 16:25:05.319439 [ MEDI ] workspaces loaded
+2025-01-31 16:25:05.364036 [ QKLC ] app launcher client loaded
+2025-01-31 16:25:05.365389 [ FOCC ] focused client loaded
+2025-01-31 16:25:05.366520 [ TRAY ] system tray loaded
+2025-01-31 16:25:05.373687 [ NTWK ] network loaded
+2025-01-31 16:30:38.214364 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:30:38.214900 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:30:39.056669 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:30:39.124058 [ STBU ] start button loaded
+2025-01-31 16:30:39.126740 [ MEDI ] workspaces loaded
+2025-01-31 16:30:39.172076 [ QKLC ] app launcher client loaded
+2025-01-31 16:30:39.173471 [ FOCC ] focused client loaded
+2025-01-31 16:30:39.174587 [ TRAY ] system tray loaded
+2025-01-31 16:30:39.181649 [ NTWK ] network loaded
+2025-01-31 16:30:57.053269 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:30:57.053756 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:30:58.187551 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:30:58.253821 [ STBU ] start button loaded
+2025-01-31 16:30:58.256484 [ MEDI ] workspaces loaded
+2025-01-31 16:30:58.300475 [ QKLC ] app launcher client loaded
+2025-01-31 16:30:58.301778 [ FOCC ] focused client loaded
+2025-01-31 16:30:58.302835 [ TRAY ] system tray loaded
+2025-01-31 16:30:58.309966 [ NTWK ] network loaded
+2025-01-31 16:34:14.981819 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:34:14.982285 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:35:17.998061 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:35:18.065800 [ STBU ] start button loaded
+2025-01-31 16:35:18.068532 [ MEDI ] workspaces loaded
+2025-01-31 16:35:18.112776 [ QKLC ] app launcher client loaded
+2025-01-31 16:35:18.114110 [ FOCC ] focused client loaded
+2025-01-31 16:35:18.115165 [ TRAY ] system tray loaded
+2025-01-31 16:35:18.122271 [ NTWK ] network loaded
+2025-01-31 16:35:18.134741 [ AUDI ] audio loaded
+2025-01-31 16:35:18.138308 [ BTLV ] battery level loaded
+2025-01-31 16:35:18.139348 [ TIME ] time loaded
+2025-01-31 16:35:18.187981 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:35:37.692811 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:35:37.693273 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:35:38.797318 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:35:38.865104 [ STBU ] start button loaded
+2025-01-31 16:35:38.867865 [ MEDI ] workspaces loaded
+2025-01-31 16:35:38.912120 [ QKLC ] app launcher client loaded
+2025-01-31 16:35:38.913452 [ FOCC ] focused client loaded
+2025-01-31 16:35:38.914501 [ TRAY ] system tray loaded
+2025-01-31 16:35:38.921549 [ NTWK ] network loaded
+2025-01-31 16:35:38.933967 [ AUDI ] audio loaded
+2025-01-31 16:35:38.938140 [ BTLV ] battery level loaded
+2025-01-31 16:35:38.939180 [ TIME ] time loaded
+2025-01-31 16:35:38.985826 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:36:57.708344 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:36:57.708838 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:36:59.103606 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:36:59.172054 [ STBU ] start button loaded
+2025-01-31 16:36:59.174743 [ MEDI ] workspaces loaded
+2025-01-31 16:36:59.220004 [ QKLC ] app launcher client loaded
+2025-01-31 16:36:59.221314 [ FOCC ] focused client loaded
+2025-01-31 16:36:59.222372 [ TRAY ] system tray loaded
+2025-01-31 16:36:59.229293 [ NTWK ] network loaded
+2025-01-31 16:36:59.241585 [ AUDI ] audio loaded
+2025-01-31 16:36:59.245023 [ BTLV ] battery level loaded
+2025-01-31 16:36:59.246049 [ TIME ] time loaded
+2025-01-31 16:36:59.288557 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:37:09.580200 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:37:09.580676 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:37:10.593867 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:37:10.660787 [ STBU ] start button loaded
+2025-01-31 16:37:10.665254 [ MEDI ] workspaces loaded
+2025-01-31 16:37:10.709932 [ QKLC ] app launcher client loaded
+2025-01-31 16:37:10.711254 [ FOCC ] focused client loaded
+2025-01-31 16:37:10.712396 [ TRAY ] system tray loaded
+2025-01-31 16:37:10.719240 [ NTWK ] network loaded
+2025-01-31 16:37:10.731723 [ AUDI ] audio loaded
+2025-01-31 16:37:10.735178 [ BTLV ] battery level loaded
+2025-01-31 16:37:10.736211 [ TIME ] time loaded
+2025-01-31 16:37:10.780473 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 16:37:12.610038 [ AUDI ] <Gtk.Button object at 0x75ad974b73c0 (GtkButton at 0x5bd441982840)>
+2025-01-31 16:37:14.482009 [ AUDI ] <Gtk.Button object at 0x75ad974b73c0 (GtkButton at 0x5bd441982840)>
+2025-01-31 16:37:28.620436 [ GTKG ] hyprtaskbar stopped
+2025-01-31 16:37:28.620882 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 16:37:29.547816 [ GTKG ] hyprtaskbar launched
+2025-01-31 16:37:29.615930 [ STBU ] start button loaded
+2025-01-31 16:37:29.618568 [ MEDI ] workspaces loaded
+2025-01-31 16:37:29.663212 [ QKLC ] app launcher client loaded
+2025-01-31 16:37:29.664543 [ FOCC ] focused client loaded
+2025-01-31 16:37:29.665535 [ TRAY ] system tray loaded
+2025-01-31 16:37:29.672471 [ NTWK ] network loaded
+2025-01-31 16:37:29.684780 [ AUDI ] audio loaded
+2025-01-31 16:37:29.688685 [ BTLV ] battery level loaded
+2025-01-31 16:37:29.689805 [ TIME ] time loaded
+2025-01-31 16:37:29.736110 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 17:02:36.824246 [ GTKG ] hyprtaskbar stopped
+2025-01-31 17:02:36.824803 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 17:02:37.785768 [ GTKG ] hyprtaskbar launched
+2025-01-31 17:02:37.852669 [ STBU ] start button loaded
+2025-01-31 17:02:37.855292 [ MEDI ] workspaces loaded
+2025-01-31 17:02:37.899730 [ QKLC ] app launcher client loaded
+2025-01-31 17:02:37.901115 [ FOCC ] focused client loaded
+2025-01-31 17:02:37.902170 [ TRAY ] system tray loaded
+2025-01-31 17:02:37.909182 [ NTWK ] network loaded
+2025-01-31 17:02:37.921471 [ AUDI ] audio loaded
+2025-01-31 17:02:37.925903 [ BTLV ] battery level loaded
+2025-01-31 17:02:37.926930 [ TIME ] time loaded
+2025-01-31 17:02:37.968898 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 17:04:56.704433 [ GTKG ] hyprtaskbar stopped
+2025-01-31 17:04:56.704929 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 17:04:57.631408 [ GTKG ] hyprtaskbar launched
+2025-01-31 17:04:57.697058 [ STBU ] start button loaded
+2025-01-31 17:04:57.699686 [ MEDI ] workspaces loaded
+2025-01-31 17:04:57.744291 [ QKLC ] app launcher client loaded
+2025-01-31 17:04:57.745584 [ FOCC ] focused client loaded
+2025-01-31 17:04:57.746606 [ TRAY ] system tray loaded
+2025-01-31 17:04:57.753760 [ NTWK ] network loaded
+2025-01-31 17:04:57.766154 [ AUDI ] audio loaded
+2025-01-31 17:04:57.770054 [ BTLV ] battery level loaded
+2025-01-31 17:04:57.771070 [ TIME ] time loaded
+2025-01-31 17:04:57.822347 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 17:05:30.655738 [ GTKG ] hyprtaskbar stopped
+2025-01-31 17:05:30.656204 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 17:05:31.783576 [ GTKG ] hyprtaskbar launched
+2025-01-31 17:05:31.850104 [ STBU ] start button loaded
+2025-01-31 17:05:31.852741 [ MEDI ] workspaces loaded
+2025-01-31 17:05:31.897952 [ QKLC ] app launcher client loaded
+2025-01-31 17:05:31.899270 [ FOCC ] focused client loaded
+2025-01-31 17:05:31.900293 [ TRAY ] system tray loaded
+2025-01-31 17:05:31.907354 [ NTWK ] network loaded
+2025-01-31 17:05:40.086979 [ GTKG ] hyprtaskbar stopped
+2025-01-31 17:05:40.087328 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 17:05:40.867339 [ GTKG ] hyprtaskbar launched
+2025-01-31 17:05:40.936529 [ STBU ] start button loaded
+2025-01-31 17:05:40.939209 [ MEDI ] workspaces loaded
+2025-01-31 17:05:40.984023 [ QKLC ] app launcher client loaded
+2025-01-31 17:05:40.985323 [ FOCC ] focused client loaded
+2025-01-31 17:05:40.986368 [ TRAY ] system tray loaded
+2025-01-31 17:05:40.993197 [ NTWK ] network loaded
+2025-01-31 17:05:41.005820 [ AUDI ] audio loaded
+2025-01-31 17:05:41.009412 [ BTLV ] battery level loaded
+2025-01-31 17:05:41.010417 [ TIME ] time loaded
+2025-01-31 17:05:41.057208 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 17:07:21.511200 [ GTKG ] hyprtaskbar stopped
+2025-01-31 17:07:21.511669 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 17:07:22.455729 [ GTKG ] hyprtaskbar launched
+2025-01-31 17:07:22.523519 [ STBU ] start button loaded
+2025-01-31 17:07:22.526208 [ MEDI ] workspaces loaded
+2025-01-31 17:08:09.615293 [ GTKG ] hyprtaskbar stopped
+2025-01-31 17:08:09.615934 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 17:08:10.469063 [ GTKG ] hyprtaskbar launched
+2025-01-31 17:08:10.536043 [ STBU ] start button loaded
+2025-01-31 17:08:10.538743 [ MEDI ] workspaces loaded
+2025-01-31 17:08:25.062685 [ GTKG ] hyprtaskbar stopped
+2025-01-31 17:08:25.063038 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 17:08:25.872270 [ GTKG ] hyprtaskbar launched
+2025-01-31 17:08:25.936288 [ STBU ] start button loaded
+2025-01-31 17:08:25.938968 [ MEDI ] workspaces loaded
+2025-01-31 17:08:35.135714 [ GTKG ] hyprtaskbar stopped
+2025-01-31 17:08:35.136147 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 17:08:36.007007 [ GTKG ] hyprtaskbar launched
+2025-01-31 17:08:36.073583 [ STBU ] start button loaded
+2025-01-31 17:08:36.076284 [ MEDI ] workspaces loaded
+2025-01-31 17:08:36.122991 [ QKLC ] app launcher client loaded
+2025-01-31 17:08:36.124364 [ FOCC ] focused client loaded
+2025-01-31 17:08:36.125401 [ TRAY ] system tray loaded
+2025-01-31 17:08:36.132832 [ NTWK ] network loaded
+2025-01-31 17:08:36.145366 [ AUDI ] audio loaded
+2025-01-31 17:08:36.149641 [ BTLV ] battery level loaded
+2025-01-31 17:08:36.150657 [ TIME ] time loaded
+2025-01-31 17:08:36.196008 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 17:08:48.343050 [ GTKG ] hyprtaskbar stopped
+2025-01-31 17:08:48.343603 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////
+2025-01-31 17:08:49.322831 [ GTKG ] hyprtaskbar launched
+2025-01-31 17:08:49.386989 [ STBU ] start button loaded
+2025-01-31 17:08:49.390108 [ MEDI ] workspaces loaded
+2025-01-31 17:08:49.434818 [ QKLC ] app launcher client loaded
+2025-01-31 17:08:49.436222 [ FOCC ] focused client loaded
+2025-01-31 17:08:49.437292 [ TRAY ] system tray loaded
+2025-01-31 17:08:49.444178 [ NTWK ] network loaded
+2025-01-31 17:08:49.456631 [ AUDI ] audio loaded
+2025-01-31 17:08:49.460418 [ BTLV ] battery level loaded
+2025-01-31 17:08:49.461422 [ TIME ] time loaded
+2025-01-31 17:08:49.508548 [ GTKG ] hyprtaskbar loaded, scss : /home/toto/.config/hyprtaskbar/style.scss, css : /tmp/style.css
+2025-01-31 17:09:05.871002 [ GTKG ] hyprtaskbar stopped
+2025-01-31 17:09:05.871687 [ GTKG ] ////////////////////////////////////////////////////////////////////////////////////////

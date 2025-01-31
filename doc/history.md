@@ -2,7 +2,6 @@
 
 # 0.0.1
 ## TODO
-[ ] - 
 [ ] - audio : find better looking option for audio settings icon (for now its just character "+")
 [ ] - applauncher : create
 [ ] - time : add calendar on click

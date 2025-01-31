@@ -8,8 +8,17 @@ from widget.Bar import *
 from pathlib import Path
 from utils import *
 
-scss = os.path.join(getGlobalParam("appHomeFolder"),"style.scss")
-css = "/tmp/style.css"
+homeFolder=getGlobalParam("appHomeFolder");
+
+if "${HOME}" in homeFolder:
+    homeFolder=homeFolder.replace("${HOME}",os.path.expanduser("~"));
+
+if os.path.exists(homeFolder):
+    scss = os.path.join(homeFolder,"style.scss");
+    css = "/tmp/style.css";
+else:
+    print("ERROR app folder not found : " + homeFolder);
+    exit()
 
 class App(Astal.Application):
     def do_astal_application_request(
